@@ -1,0 +1,29 @@
+= Sports Data Analysis
+Andrew Rendell <andrew@rendell.org>
+
+== Goals
+
+=== First Step
+
+==== Functionality
+* Download my strava routes as polylines
+* Combine polylines into a single, longer polyline
+* Call an API to get the elevation at each polyline point
+* Integrate polyline with waypoints data (taken from some other input)
+* Output a csv with distance, waypoints, elevations
+* Strech goal - draw the graph of above data
+
+==== Technology
+* Java (SpringBoot) initially
+* Would like to experiment with NodeJs / Typescript
+* Ideally end up with a microservice constelation
+
+==== Running TODO
+
+- Encrypt secret using jasypt before putting into git repo
+- put into github repo!
+- Rather than expose native activity, just expose what I want to see
+- write some tests using JUnit5!
+
+
+ ./encrypt.sh input="This is my message to be encrypted" password=MYPAS_WORD

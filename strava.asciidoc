@@ -1,0 +1,14 @@
+= Strava API
+
+== Notes
+
+Do I need to be authenticated to see the API?
+	Sort of. You need to create an app to see your own data but only need to do OAuth to see other peoples.
+
+
+
+	Target activity: 1785730333
+
+	Swagger is fantastic when used properly! I can experiment with API calls, authenticate.
+
+	Had to alter the domain on myapp to developers.strava.com so that swagger could use the callback

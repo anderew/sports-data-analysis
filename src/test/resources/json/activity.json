@@ -1,0 +1,3944 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 15668997,
+    "resource_state": 1
+  },
+  "name": "Round the Cromarty Firth",
+  "distance": 79699.0,
+  "moving_time": 11711,
+  "elapsed_time": 13935,
+  "total_elevation_gain": 551.3,
+  "type": "Ride",
+  "workout_type": 10,
+  "id": 1785730333,
+  "external_id": "garmin_push_2948762967",
+  "upload_id": 1916429069,
+  "start_date": "2018-08-20T14:07:41Z",
+  "start_date_local": "2018-08-20T15:07:41Z",
+  "timezone": "(GMT+00:00) Europe/London",
+  "utc_offset": 3600.0,
+  "start_latlng": [
+    57.58,
+    -4.4
+  ],
+  "end_latlng": [
+    57.56,
+    -4.43
+  ],
+  "location_city": null,
+  "location_state": null,
+  "location_country": "",
+  "start_latitude": 57.58,
+  "start_longitude": -4.4,
+  "achievement_count": 19,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a1785730333",
+    "polyline": "g|l~Ix|zYU{@Wu@_@w@c@w@]e@iAgA{H_Hs@u@YcAEqANmAf@oADeAMk@[}@{HeTmBgFcGyM}JsT_HuO]y@W}@QcAMiAMcGFgATy@nC_GXy@?M_@q@eIaHc@c@eAoAe@e@oAq@cEkBq@QoBKi@GSGg@]o@o@m@g@{Am@MKe@o@e@u@g@m@i@i@k@]qB{@]aAUqA_@eAaDsFc@u@Y]m@S_ACo@@}Ab@OBo@Ok@c@q@_Ak@oAUkA[_EQiAWcAY}@_@u@c@k@q@g@e@e@_EiGYw@S}@_@wBUiBw@wDY{@gCqF{@cC_@cAiCaGsBqDs@eBSa@a@e@eAaAaLmJII[o@UgAOuA@St@m@PcAMgAiAoEm@mBeCmJmBoGu@sB[m@{@wAa@e@e@c@e@i@]q@}AgDiAwAiFwFiAyAWc@qAgDS]cEaDg@c@_@w@y@cDe@sAy@uAa@g@cCkC_@g@[k@Ws@Mc@O_AKcAE}CGgAyAuKo@qG[kC_@cCSy@Ws@{B_GQw@]cCQw@eAeDiBwEcGqMY{@UaA}CeQgCkRUcCIaAMmDIeAm@cEKcAIuC]o@}B{Du@{AoQaa@uKqUoJqT}@yBaNm[}@aC{g@{qBmDoNkEqPaJe^sEmQwVyaAo@wCeAeEs@aCcR{t@W_A]y@_@o@kAqAc@m@_@w@GScBsI}AgIiAuFkPop@O_AIaAsAiPgAeLYiCgIwd@oLyn@g@cD{AmL_F{g@YuDmD_r@IwAQuAqBoKwDuR[gAUk@gAuB]gAOqACuABoBHqARoA\\kA~CmGdAeCdAqCd@eA`@[dAa@b@[b@c@d@]nAi@h@Wf@QTAl@Fj@Nl@DxAKT@h@PnAr@h@FrAa@h@Bf@Vb@j@jChH^r@`@h@d@^hAl@rGjCpEpBf@Zf@^vBnBXLf@a@nAgE\\aA\\u@`@c@b@YzCeAZu@TsDfA_a@DqA?oAEoAIkA]uCa@qCsBsLa@eDiAgQe@kICsA?wFIyFKmA{@kHYoCGiAw@yS[cL[uHU_LAuA@qDCwAEw@s@sEIsAGcD@mARkHByBGgAIo@g@mCOgAKqCAuABqAf@uV@qAKaDIqAMoAa@sCIiAEmAQqMK_DQ_D{@}Go@cHUcAY{@yAeDWaAOeAg@iHwAkOQgAmAwGeBaLWkCs@uJ_AqQY_IGaDGoFAmFIuFMcUM{HQsHOuCSsCYsC{AiJeAwEw@aCwBeFu@sBkBgGgCqHm@{BScAOeAk@oFe@aDs@{CiBuG}AkGu@uEi@gCq@wB]q@_A{A[u@iB_FmDmL}F{PuBaHq@cCuC{OOeAMeAOqCi@eRSmFi@qHQ{Co@uM_@eFg@aFa@sCmAoGk@eC]_A}@wB_@w@aAcBmBeCmBqBg@c@_DgCyBwAoAs@sAo@sFwAg@UYUo@}AYI{r@ecBgAQWLMWM?KWe@EmAu@i@Wu@Km@Dm@NqAh@c@Xa@`@_@l@[t@W|@oB`JY`A_@t@o@v@g@Xi@Lk@@m@E_NgBi@Gi@Ai@@i@Di@Lg@Ng@VsBnAaErCmAr@i@RqA^i@HgD\\}B\\uBf@eEjAi@Fi@Dk@Ak@Ki@Oi@[qAgAcE}De@a@e@Wg@UmA[sBc@mAOg@Ag@Be@Hg@NkAh@sHvDe@Pg@Le@HsKj@qA@e@Cg@Ig@Qe@Wc@_@c@e@a@k@_@o@}C{F_@m@cAuAgAiAe@_@iFiDe@_@c@c@a@g@_@m@w@oBk@aC_@mCkFkk@[qCg@eCW}@[y@_@u@a@o@q@w@iBgBeAu@oAg@oH{Bi@Ug@]g@c@kAwAiBiCeAqA_NwNgAgAiA_A}FiEgA}@kLqKkCmC_AsA}GmLgBkDcPc\\}@aBa@k@eAqAgAcAkAw@qAk@i@Qi@KuAMuA?wANi@Li@Ni@Tg@VkAx@kBhBcBtBa@n@]r@q@pB_AjDo@pBw@fB_@l@cAlAmGbHcCpCaArAy@bBo@xBQdAWxCc@fH[jCg@bCiAhDsAhDuEbMm@jBw@pBuF|Ny@fBcCdGmFpNcHnPgDdH{DxJcDxHyCzH_DrHu@nByCbHmFnMSn@?nATzAEfA[n@a@ZgAZYRc@b@a@f@_ChD_AfAGHM|@@^Pz@JZzAdH`@bC^zAbDfObB~GbAlDt@|CpAvETbAhBhIhEdQhAlFrEhRvMdk@Lx@Fh@R|N?zJBhFB`Ah@dKAdBO|DNfDBlAWjFMbENhCd@tEJ~BFhHEzEBdAtAnJN`AP|@X`ArCzHxAjEPv@ZtB^jERdEl@dKFfCF`HLxCFdC?lAGlAUpCKfAw@zDQpAUhCInAIfFGnAIrAm@hGSnDMnAQjAUhAyAdEgBxEW~@]bCIbA?nAvBdTxBzR^lGR`F@pAElAMfASnCw@nHAbADbAAlAOt@y@fAGRD`@n@rBp@tDJbAt@~EnAdKh@fFHhADjABvCQvK@rAApA@nADlANhATfAZbAhBvF\\x@`@x@rBvCN\\^dAXfA~@lE|@jF^zCv@pHv@xFNnADtAAvAGtAKlA_@hCe@hBKp@AnATvDl@vElEfd@FhAExDi@xPB~ABVP|@b@v@`@`@hA~@b@f@b@l@|BjEjAxAh@\\l@Rl@BtACh@Fh@Vf@d@d@j@bAzA~@bB\\r@n@pBjHxWfDjLpBtHjChJfAlDhBvErCxFbA~A^|@nE|IvJrUz@jBt@pBrA~CnDrH~IjPtEnH~@rAdAjAlBdBlAt@l@Rl@PdB\\f@H|CLb@Hd@PfAl@hA~@pEdEhGpFn@d@vP|O`A~@^b@h@~@lJbU~@~CrAnFl@nC~BlNfAbGL|AJlEHdANbAz@fEdA`En@zBXz@RZhAfAjArAn@h@nA|AvAjCjDjHh@|@l@p@b@Hd@CbBWf@Ch@Nd@^`@d@~AfCZp@Xv@pA`F|@xC`@hAd@`AtBtDjCrCl@r@j@v@pAvBhA`C\\lA`@jDHX^fAf@n@h@VrBh@DH?dAE~C@lADv@VfBLnAf@dGNrAzAvKxBhQr@`DTtAJ|ANdEPxAt@vFnAjL`@zCr@`Ip@rEp@bEZvCXpFZdJNfF@`CHfAJ~CPxKZzMRhER|BTRd@]f@YtB_Af@[d@a@hAiAj@Wj@a@Z]`BcDb@s@f@m@j@c@lEyCd@[RIlAKvBEnCLhBQt@AvDx@NJBDAj@QvC[nEAhA@dARlA`@vAhA|EvAtFjC~K`@`Cx@hGf@lC~CfLRnARjB\\x@XRv@hB^j@\\p@rAdEbDbIfCfIpHrUpZ|`Al@hCN`A\\rCPvCDhA@lCAlAMvCA~@N`@rAl@fAj@jAv@h@b@|@j@GlAMbA?ZHn@`@l@b@\\fAlAbA|AZn@hEhKt@rBT~@|@zD`@vBvA|Jf@bE`@dCnE`TbAnF^|Bh@~B~@dDPx@zCdKb@^Xr@Tt@^dBtAvDl@`Cb@`AzArB`AhA\\p@b@d@l@\\JTb@ZPh@pBdChCbE`DrE~@bBZt@b@f@P^jBlCd@j@jCvDf@Vz@bA\\V`@j@r@xAVv@NvA?lAEDDhArA~SLlAN|@\\x@hApBvAtC|@fA^V`@PhF`EbAp@?P_@CSDC[J[d@\\fB`BzCfChDfCb@XhAj@HLSA[F?`AxAvCZ`APpAT~Bl@~EP~@V|@lBpEv@|A|ApCfAzEf@fAxC`Gz@lBvAnDvCzHnCdI^p@dAj@`AX~BZpACb@EnAa@jAe@d@UtBoAlByApCiCr@e@LGj@Kf@@rBHb@D^Lf@Vf@\\b@d@dArA`DpD`GhHhDtDhEbFbBrBhG~GnCdD~@nAjA`BzChF|DfGZj@p@`BnAxDTz@lAdGf@vCf@~BtArH~@vGf@lERpCDrC@lCB`@Tv@j@~@bCjDbFdI~DtF|ApBlAlAZb@Rn@hAjErBlFZ|@Rz@vAtHj@nCb@bBbA|BtFrKRt@|@tBrBpFV~@p@rBz@rBxAzDl@jAZf@b@d@b@Zr@XfAh@`@\\b@j@v@|AVn@rBjEv@jB\\|@jAxD|B`Gj@jBlAfGp@jBt@`B^j@j@|@pA|A`AtA\\h@v@vAdA~A`AhBdAfBzAlCrB|DdA`B`@z@\\z@jChJp@pBh@tBrAlD|BbFtBbFf@z@vAnB~BpDd@|@^bAr@lCpAdEhB`ELPn@d@l@^bAdA`F|GpCnDr@bAXx@R`ArKli@VdA`@HxEoCh@_@nH}Dd@_@d@e@XQ`A~BnAZr@Ff@AlDYxAWj@Of@[tCgDd@c@pA_Af@U|@St@?fBIVi@F}A?gAFeA@iAr@{HDWXw@b@a@h@GjH|@nAHHDX^`@Nb@Gh@Cn@BpFn@f@LpAb@j@Th@Xf@^f@h@f@l@hCvD^f@lCpCb@h@bAvA~@zA`H|LpEpHbHtK`JrM|C~Dj@b@p@Gn@Af@v@j@zAf@p@rA~AtAxALJn@Tj@HlDN`FJbCLl@Hf@\\dAlA^^^Ph@Dl@IhA_@f@Cj@NtAz@vE|Dh@Zl@Pn@A^Ij@_@bDkDbAsAz@_Bx@sBrFoL\\k@vAgB`AeAfAs@b@Od@If@@fBl@Ng@dAwIb@_Cb@kDHc@JCRPt@|A`@Ol@uCJs@JDHb@`@f@|@|Ab@UFYb@mCb@aC?Ys@aCWO",
+    "resource_state": 3,
+    "summary_polyline": "g|l~Ix|zYiQeTKcNak@itAe@yM~DaKuo@ac@sHaPyKaBa`@ifAkViYTkJaLo`@}m@o~@}Fei@mUop@aLi_AecAw{BwvC_fLka@_nCcM_fBuM_n@pKi]vJoFvQxApFrLvXdOpL{ObBuk@mMkaBqGkqB^qc@yB_f@oTi`BaFynB{b@kgBiZk|@gLk|AeFuVuMwPcTaKeu@mfBoHkC_HrB_KzUaVmByi@hQeY_Nsg@|Gg\\_a@qNqcA{UqMiu@ut@kb@ew@uMeHkO~Fs]fk@}Ed]aLb[}fAllCCbHmLbMxu@|gDhB`pBlLff@fC`n@_Grv@iH|XdH`z@mDn_@lHfh@Nh_@xKzX|Gpe@cBfUxG`s@g@jZr]j^r\\|iAjt@`{A`KpKxOdDxg@~e@`Ora@tNxz@dSfZfI~@n]dw@jEzBhWfcCrDfjAf]mX|Tl@k@hPnTvcApu@xzBbBt^~IbGK|ElNdXjQjaAnOng@xk@|x@hCz_@nE~Jl]dXdEpYh^x|@|JvAd[kLt|@bgAfLte@|Cr^zWj_@hc@`pAjK`LvQ`i@pZ|g@bc@xfAvQnTxMno@zT{LzKfC~TcK`DmWb[jDjmAn}Atm@lOd[ic@`H]fDoUjIj@BuM"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "flagged": false,
+  "gear_id": "b3242345",
+  "from_accepted_tag": false,
+  "average_speed": 6.805,
+  "max_speed": 15.4,
+  "average_cadence": 78.6,
+  "average_watts": 121.2,
+  "kilojoules": 1419.0,
+  "device_watts": false,
+  "has_heartrate": false,
+  "elev_high": 120.8,
+  "elev_low": 0.1,
+  "pr_count": 14,
+  "total_photo_count": 4,
+  "has_kudoed": false,
+  "suffer_score": null,
+  "description": "",
+  "calories": 2923.0,
+  "segment_efforts": [
+    {
+      "id": 44834041222,
+      "resource_state": 2,
+      "name": "Urquhart to Cromarty Bridge",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 349,
+      "moving_time": 349,
+      "start_date": "2018-08-20T14:12:51Z",
+      "start_date_local": "2018-08-20T15:12:51Z",
+      "distance": 2700.1,
+      "start_index": 96,
+      "end_index": 218,
+      "average_cadence": 86.7,
+      "device_watts": false,
+      "average_watts": 118.4,
+      "segment": {
+        "id": 13770049,
+        "resource_state": 2,
+        "name": "Urquhart to Cromarty Bridge",
+        "activity_type": "Ride",
+        "distance": 2688.7,
+        "average_grade": -0.5,
+        "maximum_grade": 10.1,
+        "elevation_high": 25.5,
+        "elevation_low": 3.4,
+        "start_latlng": [
+          57.589422,
+          -4.378008
+        ],
+        "end_latlng": [
+          57.608688,
+          -4.354629
+        ],
+        "start_latitude": 57.589422,
+        "start_longitude": -4.378008,
+        "end_latitude": 57.608688,
+        "end_longitude": -4.354629,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041267,
+      "resource_state": 2,
+      "name": "A9-Findon climb",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 507,
+      "moving_time": 507,
+      "start_date": "2018-08-20T14:19:51Z",
+      "start_date_local": "2018-08-20T15:19:51Z",
+      "distance": 2734.4,
+      "start_index": 234,
+      "end_index": 357,
+      "average_cadence": 78.5,
+      "device_watts": false,
+      "average_watts": 187.1,
+      "segment": {
+        "id": 9585501,
+        "resource_state": 2,
+        "name": "A9-Findon climb",
+        "activity_type": "Ride",
+        "distance": 2702.7,
+        "average_grade": 2.4,
+        "maximum_grade": 6.4,
+        "elevation_high": 83.3,
+        "elevation_low": 18.1,
+        "start_latlng": [
+          57.609384,
+          -4.350757
+        ],
+        "end_latlng": [
+          57.624398,
+          -4.317263
+        ],
+        "start_latitude": 57.609384,
+        "start_longitude": -4.350757,
+        "end_latitude": 57.624398,
+        "end_longitude": -4.317263,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041331,
+      "resource_state": 2,
+      "name": "Kinbeachie Climb",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 559,
+      "moving_time": 559,
+      "start_date": "2018-08-20T14:23:00Z",
+      "start_date_local": "2018-08-20T15:23:00Z",
+      "distance": 2398.5,
+      "start_index": 297,
+      "end_index": 406,
+      "average_cadence": 83.0,
+      "device_watts": false,
+      "average_watts": 187.0,
+      "segment": {
+        "id": 1233330,
+        "resource_state": 2,
+        "name": "Kinbeachie Climb",
+        "activity_type": "Ride",
+        "distance": 2413.64,
+        "average_grade": 3.7,
+        "maximum_grade": 263.3,
+        "elevation_high": 111.1,
+        "elevation_low": 21.8,
+        "start_latlng": [
+          57.61849614791572,
+          -4.335904782637954
+        ],
+        "end_latlng": [
+          57.630027551203966,
+          -4.30366731248796
+        ],
+        "start_latitude": 57.61849614791572,
+        "start_longitude": -4.335904782637954,
+        "end_latitude": 57.630027551203966,
+        "end_longitude": -4.30366731248796,
+        "climb_category": 1,
+        "city": "Culbokie",
+        "state": null,
+        "country": "Dingwall, UK",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": true
+    },
+    {
+      "id": 44834041306,
+      "resource_state": 2,
+      "name": "Broomtown Climb",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 384,
+      "moving_time": 384,
+      "start_date": "2018-08-20T14:23:08Z",
+      "start_date_local": "2018-08-20T15:23:08Z",
+      "distance": 1590.0,
+      "start_index": 299,
+      "end_index": 372,
+      "average_cadence": 80.5,
+      "device_watts": false,
+      "average_watts": 206.5,
+      "segment": {
+        "id": 1465457,
+        "resource_state": 2,
+        "name": "Broomtown Climb",
+        "activity_type": "Ride",
+        "distance": 1570.19,
+        "average_grade": 4.6,
+        "maximum_grade": 7.8,
+        "elevation_high": 89.0,
+        "elevation_low": 16.2,
+        "start_latlng": [
+          57.61849061585963,
+          -4.335312098264694
+        ],
+        "end_latlng": [
+          57.625170992687345,
+          -4.3126702308654785
+        ],
+        "start_latitude": 57.61849061585963,
+        "start_longitude": -4.335312098264694,
+        "end_latitude": 57.625170992687345,
+        "end_longitude": -4.3126702308654785,
+        "climb_category": 0,
+        "city": "Culbokie",
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041358,
+      "resource_state": 2,
+      "name": "Full Kinbeachie",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 647,
+      "moving_time": 647,
+      "start_date": "2018-08-20T14:23:08Z",
+      "start_date_local": "2018-08-20T15:23:08Z",
+      "distance": 2883.4,
+      "start_index": 299,
+      "end_index": 430,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_watts": 179.6,
+      "segment": {
+        "id": 1936883,
+        "resource_state": 2,
+        "name": "Full Kinbeachie",
+        "activity_type": "Ride",
+        "distance": 2864.42,
+        "average_grade": 3.4,
+        "maximum_grade": 7.2,
+        "elevation_high": 119.4,
+        "elevation_low": 23.3,
+        "start_latlng": [
+          57.618500588120156,
+          -4.33511650875678
+        ],
+        "end_latlng": [
+          57.63346512196576,
+          -4.297325717704708
+        ],
+        "start_latitude": 57.618500588120156,
+        "start_longitude": -4.33511650875678,
+        "end_latitude": 57.63346512196576,
+        "end_longitude": -4.297325717704708,
+        "climb_category": 1,
+        "city": "Culbokie",
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041586,
+      "resource_state": 2,
+      "name": "Culbokie to Cromarty",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 2589,
+      "moving_time": 2589,
+      "start_date": "2018-08-20T14:29:50Z",
+      "start_date_local": "2018-08-20T15:29:50Z",
+      "distance": 20197.0,
+      "start_index": 375,
+      "end_index": 1208,
+      "average_cadence": 82.3,
+      "device_watts": false,
+      "average_watts": 116.8,
+      "segment": {
+        "id": 9204122,
+        "resource_state": 2,
+        "name": "Culbokie to Cromarty",
+        "activity_type": "Ride",
+        "distance": 20129.7,
+        "average_grade": -0.4,
+        "maximum_grade": 55.4,
+        "elevation_high": 120.5,
+        "elevation_low": 4.4,
+        "start_latlng": [
+          57.625522,
+          -4.311625
+        ],
+        "end_latlng": [
+          57.678634,
+          -4.040603
+        ],
+        "start_latitude": 57.625522,
+        "start_longitude": -4.311625,
+        "end_latitude": 57.678634,
+        "end_longitude": -4.040603,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041438,
+      "resource_state": 2,
+      "name": "Sassanac Straight",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 800,
+      "moving_time": 800,
+      "start_date": "2018-08-20T14:31:27Z",
+      "start_date_local": "2018-08-20T15:31:27Z",
+      "distance": 6045.5,
+      "start_index": 394,
+      "end_index": 635,
+      "average_cadence": 85.6,
+      "device_watts": false,
+      "average_watts": 98.4,
+      "segment": {
+        "id": 5724682,
+        "resource_state": 2,
+        "name": "Sassanac Straight",
+        "activity_type": "Ride",
+        "distance": 6015.8,
+        "average_grade": -0.6,
+        "maximum_grade": 2.6,
+        "elevation_high": 120.4,
+        "elevation_low": 64.9,
+        "start_latlng": [
+          57.62825,
+          -4.306753
+        ],
+        "end_latlng": [
+          57.659859,
+          -4.225707
+        ],
+        "start_latitude": 57.62825,
+        "start_longitude": -4.306753,
+        "end_latitude": 57.659859,
+        "end_longitude": -4.225707,
+        "climb_category": 0,
+        "city": "Dingwall, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041400,
+      "resource_state": 2,
+      "name": "Cullicudden(N)The Straight Bit",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 481,
+      "moving_time": 481,
+      "start_date": "2018-08-20T14:34:36Z",
+      "start_date_local": "2018-08-20T15:34:36Z",
+      "distance": 3974.2,
+      "start_index": 443,
+      "end_index": 591,
+      "average_cadence": 84.5,
+      "device_watts": false,
+      "average_watts": 72.7,
+      "segment": {
+        "id": 2159900,
+        "resource_state": 2,
+        "name": "Cullicudden(N)The Straight Bit",
+        "activity_type": "Ride",
+        "distance": 3943.23,
+        "average_grade": -1.4,
+        "maximum_grade": 1.0,
+        "elevation_high": 120.7,
+        "elevation_low": 65.3,
+        "start_latlng": [
+          57.635300166735604,
+          -4.293854298458431
+        ],
+        "end_latlng": [
+          57.655044970494,
+          -4.238946415313663
+        ],
+        "start_latitude": 57.635300166735604,
+        "start_longitude": -4.293854298458431,
+        "end_latitude": 57.655044970494,
+        "end_longitude": -4.238946415313663,
+        "climb_category": 0,
+        "city": "Culbokie",
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041471,
+      "resource_state": 2,
+      "name": "From bus shelter to the turn",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1055,
+      "moving_time": 1055,
+      "start_date": "2018-08-20T14:54:54Z",
+      "start_date_local": "2018-08-20T15:54:54Z",
+      "distance": 8329.1,
+      "start_index": 846,
+      "end_index": 1198,
+      "average_cadence": 79.6,
+      "device_watts": false,
+      "average_watts": 140.0,
+      "segment": {
+        "id": 9768857,
+        "resource_state": 2,
+        "name": "From bus shelter to the turn",
+        "activity_type": "Ride",
+        "distance": 8341.8,
+        "average_grade": 0.0,
+        "maximum_grade": 6.5,
+        "elevation_high": 29.6,
+        "elevation_low": 5.7,
+        "start_latlng": [
+          57.655964,
+          -4.17279
+        ],
+        "end_latlng": [
+          57.677206,
+          -4.043266
+        ],
+        "start_latitude": 57.655964,
+        "start_longitude": -4.17279,
+        "end_latitude": 57.677206,
+        "end_longitude": -4.043266,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": true
+    },
+    {
+      "id": 44834041502,
+      "resource_state": 2,
+      "name": "Cromarty North-Shore Flats (To Cromarty)",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1061,
+      "moving_time": 1061,
+      "start_date": "2018-08-20T14:54:54Z",
+      "start_date_local": "2018-08-20T15:54:54Z",
+      "distance": 8376.1,
+      "start_index": 846,
+      "end_index": 1200,
+      "average_cadence": 79.6,
+      "device_watts": false,
+      "average_watts": 140.0,
+      "segment": {
+        "id": 4401697,
+        "resource_state": 2,
+        "name": "Cromarty North-Shore Flats (To Cromarty)",
+        "activity_type": "Ride",
+        "distance": 8381.7,
+        "average_grade": -0.1,
+        "maximum_grade": 1.4,
+        "elevation_high": 22.7,
+        "elevation_low": 15.6,
+        "start_latlng": [
+          57.655942,
+          -4.172701
+        ],
+        "end_latlng": [
+          57.677449,
+          -4.042601
+        ],
+        "start_latitude": 57.655942,
+        "start_longitude": -4.172701,
+        "end_latitude": 57.677449,
+        "end_longitude": -4.042601,
+        "climb_category": 0,
+        "city": "Dingwall, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": true
+    },
+    {
+      "id": 44834041538,
+      "resource_state": 2,
+      "name": "Stage Race Prologue",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 828,
+      "moving_time": 828,
+      "start_date": "2018-08-20T14:58:47Z",
+      "start_date_local": "2018-08-20T15:58:47Z",
+      "distance": 6556.0,
+      "start_index": 923,
+      "end_index": 1200,
+      "average_cadence": 79.3,
+      "device_watts": false,
+      "average_watts": 139.5,
+      "segment": {
+        "id": 1797468,
+        "resource_state": 2,
+        "name": "Stage Race Prologue",
+        "activity_type": "Ride",
+        "distance": 6560.24,
+        "average_grade": -0.0,
+        "maximum_grade": 8.3,
+        "elevation_high": 14.4,
+        "elevation_low": 2.6,
+        "start_latlng": [
+          57.65856466256082,
+          -4.143046075478196
+        ],
+        "end_latlng": [
+          57.67743400298059,
+          -4.042591815814376
+        ],
+        "start_latitude": 57.65856466256082,
+        "start_longitude": -4.143046075478196,
+        "end_latitude": 57.67743400298059,
+        "end_longitude": -4.042591815814376,
+        "climb_category": 0,
+        "city": null,
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834041614,
+      "resource_state": 2,
+      "name": "Ferry to Ankerville",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 918,
+      "moving_time": 918,
+      "start_date": "2018-08-20T15:40:05Z",
+      "start_date_local": "2018-08-20T16:40:05Z",
+      "distance": 6764.9,
+      "start_index": 1247,
+      "end_index": 1546,
+      "average_cadence": 81.4,
+      "device_watts": false,
+      "average_watts": 113.7,
+      "segment": {
+        "id": 12463530,
+        "resource_state": 2,
+        "name": "Ferry to Ankerville",
+        "activity_type": "Ride",
+        "distance": 6817.6,
+        "average_grade": 0.0,
+        "maximum_grade": 9.3,
+        "elevation_high": 29.2,
+        "elevation_low": 17.6,
+        "start_latlng": [
+          57.692669,
+          -4.020401
+        ],
+        "end_latlng": [
+          57.74413,
+          -3.98865
+        ],
+        "start_latitude": 57.692669,
+        "start_longitude": -4.020401,
+        "end_latitude": 57.74413,
+        "end_longitude": -3.98865,
+        "climb_category": 0,
+        "city": "Tain",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834041652,
+      "resource_state": 2,
+      "name": "Nigg hill road to Ankerville",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 904,
+      "moving_time": 904,
+      "start_date": "2018-08-20T15:40:52Z",
+      "start_date_local": "2018-08-20T16:40:52Z",
+      "distance": 6851.0,
+      "start_index": 1256,
+      "end_index": 1557,
+      "average_cadence": 81.8,
+      "device_watts": false,
+      "average_watts": 111.9,
+      "segment": {
+        "id": 14960750,
+        "resource_state": 2,
+        "name": "Nigg hill road to Ankerville",
+        "activity_type": "Ride",
+        "distance": 6869.4,
+        "average_grade": -0.0,
+        "maximum_grade": 1.8,
+        "elevation_high": 10.0,
+        "elevation_low": 2.6,
+        "start_latlng": [
+          57.694397,
+          -4.020157
+        ],
+        "end_latlng": [
+          57.746292,
+          -3.987885
+        ],
+        "start_latitude": 57.694397,
+        "start_longitude": -4.020157,
+        "end_latitude": 57.746292,
+        "end_longitude": -3.987885,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": true
+    },
+    {
+      "id": 44834041696,
+      "resource_state": 2,
+      "name": "Nigg to Arabella",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 953,
+      "moving_time": 953,
+      "start_date": "2018-08-20T15:43:24Z",
+      "start_date_local": "2018-08-20T16:43:24Z",
+      "distance": 7170.3,
+      "start_index": 1307,
+      "end_index": 1624,
+      "average_cadence": 81.5,
+      "device_watts": false,
+      "average_watts": 112.0,
+      "segment": {
+        "id": 17436384,
+        "resource_state": 2,
+        "name": "Nigg to Arabella",
+        "activity_type": "Ride",
+        "distance": 7198.6,
+        "average_grade": 0.0,
+        "maximum_grade": 2.1,
+        "elevation_high": -49.6,
+        "elevation_low": -55.8,
+        "start_latlng": [
+          57.703887,
+          -4.025752
+        ],
+        "end_latlng": [
+          57.755896,
+          -4.004336
+        ],
+        "start_latitude": 57.703887,
+        "start_longitude": -4.025752,
+        "end_latitude": 57.755896,
+        "end_longitude": -4.004336,
+        "climb_category": 0,
+        "city": "Tain",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": true
+    },
+    {
+      "id": 44834041740,
+      "resource_state": 2,
+      "name": "Balnabruiach to Arabella",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 917,
+      "moving_time": 917,
+      "start_date": "2018-08-20T15:44:24Z",
+      "start_date_local": "2018-08-20T16:44:24Z",
+      "distance": 6891.5,
+      "start_index": 1327,
+      "end_index": 1632,
+      "average_cadence": 81.5,
+      "device_watts": false,
+      "average_watts": 112.0,
+      "segment": {
+        "id": 9594926,
+        "resource_state": 2,
+        "name": "Balnabruiach to Arabella",
+        "activity_type": "Ride",
+        "distance": 6909.5,
+        "average_grade": 0.0,
+        "maximum_grade": 38.9,
+        "elevation_high": 18.6,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          57.70784,
+          -4.026508
+        ],
+        "end_latlng": [
+          57.756974,
+          -4.006249
+        ],
+        "start_latitude": 57.70784,
+        "start_longitude": -4.026508,
+        "end_latitude": 57.756974,
+        "end_longitude": -4.006249,
+        "climb_category": 0,
+        "city": "Tain",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834041780,
+      "resource_state": 2,
+      "name": "Railway to Roundabout",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 199,
+      "moving_time": 199,
+      "start_date": "2018-08-20T16:01:27Z",
+      "start_date_local": "2018-08-20T17:01:27Z",
+      "distance": 1052.6,
+      "start_index": 1664,
+      "end_index": 1710,
+      "average_cadence": 73.4,
+      "device_watts": false,
+      "average_watts": 106.3,
+      "segment": {
+        "id": 15753433,
+        "resource_state": 2,
+        "name": "Railway to Roundabout",
+        "activity_type": "Ride",
+        "distance": 1068.5,
+        "average_grade": 0.9,
+        "maximum_grade": 5.2,
+        "elevation_high": 18.6,
+        "elevation_low": 5.0,
+        "start_latlng": [
+          57.76144,
+          -4.015586
+        ],
+        "end_latlng": [
+          57.768084,
+          -4.028525
+        ],
+        "start_latitude": 57.76144,
+        "start_longitude": -4.015586,
+        "end_latitude": 57.768084,
+        "end_longitude": -4.028525,
+        "climb_category": 0,
+        "city": "Tain",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834041816,
+      "resource_state": 2,
+      "name": "Newfield to Loggie Hill",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 497,
+      "moving_time": 395,
+      "start_date": "2018-08-20T16:05:47Z",
+      "start_date_local": "2018-08-20T17:05:47Z",
+      "distance": 2532.0,
+      "start_index": 1730,
+      "end_index": 1845,
+      "average_cadence": 73.9,
+      "device_watts": false,
+      "average_watts": 133.9,
+      "segment": {
+        "id": 12813982,
+        "resource_state": 2,
+        "name": "Newfield to Loggie Hill",
+        "activity_type": "Ride",
+        "distance": 2537.1,
+        "average_grade": 0.9,
+        "maximum_grade": 5.6,
+        "elevation_high": 44.1,
+        "elevation_low": 21.7,
+        "start_latlng": [
+          57.770224,
+          -4.032448
+        ],
+        "end_latlng": [
+          57.760999,
+          -4.069696
+        ],
+        "start_latitude": 57.770224,
+        "start_longitude": -4.032448,
+        "end_latitude": 57.760999,
+        "end_longitude": -4.069696,
+        "climb_category": 0,
+        "city": "Tain",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834041898,
+      "resource_state": 2,
+      "name": "A9 west to Lamington",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1111,
+      "moving_time": 1009,
+      "start_date": "2018-08-20T16:05:47Z",
+      "start_date_local": "2018-08-20T17:05:47Z",
+      "distance": 5724.9,
+      "start_index": 1730,
+      "end_index": 1989,
+      "average_cadence": 75.0,
+      "device_watts": false,
+      "average_watts": 149.4,
+      "segment": {
+        "id": 12812716,
+        "resource_state": 2,
+        "name": "A9 west to Lamington",
+        "activity_type": "Ride",
+        "distance": 5686.3,
+        "average_grade": 1.5,
+        "maximum_grade": 12.8,
+        "elevation_high": 106.0,
+        "elevation_low": 21.7,
+        "start_latlng": [
+          57.770196,
+          -4.032548
+        ],
+        "end_latlng": [
+          57.760044,
+          -4.118451
+        ],
+        "start_latitude": 57.770196,
+        "start_longitude": -4.032548,
+        "end_latitude": 57.760044,
+        "end_longitude": -4.118451,
+        "climb_category": 0,
+        "city": "Tain",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834041940,
+      "resource_state": 2,
+      "name": "Fisherman's blues",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 598,
+      "moving_time": 598,
+      "start_date": "2018-08-20T16:14:27Z",
+      "start_date_local": "2018-08-20T17:14:27Z",
+      "distance": 3157.2,
+      "start_index": 1848,
+      "end_index": 1990,
+      "average_cadence": 75.9,
+      "device_watts": false,
+      "average_watts": 161.6,
+      "segment": {
+        "id": 12813295,
+        "resource_state": 2,
+        "name": "Fisherman's blues",
+        "activity_type": "Ride",
+        "distance": 3114.0,
+        "average_grade": 1.9,
+        "maximum_grade": 12.8,
+        "elevation_high": 107.0,
+        "elevation_low": 46.8,
+        "start_latlng": [
+          57.761063,
+          -4.070516
+        ],
+        "end_latlng": [
+          57.760106,
+          -4.118517
+        ],
+        "start_latitude": 57.761063,
+        "start_longitude": -4.070516,
+        "end_latitude": 57.760106,
+        "end_longitude": -4.118517,
+        "climb_category": 0,
+        "city": "Pitmaduthy",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834041867,
+      "resource_state": 2,
+      "name": "Breathe easy Brenachie",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 207,
+      "moving_time": 207,
+      "start_date": "2018-08-20T16:14:35Z",
+      "start_date_local": "2018-08-20T17:14:35Z",
+      "distance": 1236.0,
+      "start_index": 1849,
+      "end_index": 1905,
+      "average_cadence": 76.2,
+      "device_watts": false,
+      "average_watts": 156.9,
+      "segment": {
+        "id": 12814007,
+        "resource_state": 2,
+        "name": "Breathe easy Brenachie",
+        "activity_type": "Ride",
+        "distance": 1212.5,
+        "average_grade": 1.7,
+        "maximum_grade": 5.4,
+        "elevation_high": 68.7,
+        "elevation_low": 47.2,
+        "start_latlng": [
+          57.76109,
+          -4.070676
+        ],
+        "end_latlng": [
+          57.758077,
+          -4.0894
+        ],
+        "start_latitude": 57.76109,
+        "start_longitude": -4.070676,
+        "end_latitude": 57.758077,
+        "end_longitude": -4.0894,
+        "climb_category": 0,
+        "city": "Pitmaduthy",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834041985,
+      "resource_state": 2,
+      "name": "Marybank to Scotburn Road",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 347,
+      "moving_time": 347,
+      "start_date": "2018-08-20T16:18:41Z",
+      "start_date_local": "2018-08-20T17:18:41Z",
+      "distance": 1602.2,
+      "start_index": 1918,
+      "end_index": 1991,
+      "average_cadence": 74.7,
+      "device_watts": false,
+      "average_watts": 161.2,
+      "segment": {
+        "id": 2442866,
+        "resource_state": 2,
+        "name": "Marybank to Scotburn Road",
+        "activity_type": "Ride",
+        "distance": 1566.46,
+        "average_grade": 2.9,
+        "maximum_grade": 12.7,
+        "elevation_high": 108.1,
+        "elevation_low": 63.1,
+        "start_latlng": [
+          57.758587547631706,
+          -4.094313103709458
+        ],
+        "end_latlng": [
+          57.76017273315951,
+          -4.118594974283239
+        ],
+        "start_latitude": 57.758587547631706,
+        "start_longitude": -4.094313103709458,
+        "end_latitude": 57.76017273315951,
+        "end_longitude": -4.118594974283239,
+        "climb_category": 0,
+        "city": "Invergordon",
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": true
+    },
+    {
+      "id": 44834042022,
+      "resource_state": 2,
+      "name": "Marybank (3min Climb)",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 258,
+      "moving_time": 258,
+      "start_date": "2018-08-20T16:20:10Z",
+      "start_date_local": "2018-08-20T17:20:10Z",
+      "distance": 1030.5,
+      "start_index": 1942,
+      "end_index": 1991,
+      "average_cadence": 73.0,
+      "device_watts": false,
+      "average_watts": 145.8,
+      "segment": {
+        "id": 7927266,
+        "resource_state": 2,
+        "name": "Marybank (3min Climb)",
+        "activity_type": "Ride",
+        "distance": 1023.2,
+        "average_grade": 3.9,
+        "maximum_grade": 11.9,
+        "elevation_high": 108.0,
+        "elevation_low": 67.8,
+        "start_latlng": [
+          57.760401,
+          -4.102547
+        ],
+        "end_latlng": [
+          57.760156,
+          -4.118614
+        ],
+        "start_latitude": 57.760401,
+        "start_longitude": -4.102547,
+        "end_latitude": 57.760156,
+        "end_longitude": -4.118614,
+        "climb_category": 0,
+        "city": "Invergordon IV18, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834042065,
+      "resource_state": 2,
+      "name": "Laminton Torran",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 324,
+      "moving_time": 324,
+      "start_date": "2018-08-20T16:24:39Z",
+      "start_date_local": "2018-08-20T17:24:39Z",
+      "distance": 2465.8,
+      "start_index": 1993,
+      "end_index": 2099,
+      "average_cadence": 73.8,
+      "device_watts": false,
+      "average_watts": 110.3,
+      "segment": {
+        "id": 13881821,
+        "resource_state": 2,
+        "name": "Laminton Torran",
+        "activity_type": "Ride",
+        "distance": 2446.1,
+        "average_grade": -0.9,
+        "maximum_grade": 7.3,
+        "elevation_high": 107.4,
+        "elevation_low": 73.7,
+        "start_latlng": [
+          57.759966,
+          -4.119206
+        ],
+        "end_latlng": [
+          57.754425,
+          -4.15671
+        ],
+        "start_latitude": 57.759966,
+        "start_longitude": -4.119206,
+        "end_latitude": 57.754425,
+        "end_longitude": -4.15671,
+        "climb_category": 0,
+        "city": "Invergordon",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834042104,
+      "resource_state": 2,
+      "name": "Top of Tomich Sprint",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 27,
+      "moving_time": 27,
+      "start_date": "2018-08-20T16:37:49Z",
+      "start_date_local": "2018-08-20T17:37:49Z",
+      "distance": 235.0,
+      "start_index": 2255,
+      "end_index": 2264,
+      "average_cadence": 82.0,
+      "device_watts": false,
+      "average_watts": 62.7,
+      "segment": {
+        "id": 3523315,
+        "resource_state": 2,
+        "name": "Top of Tomich Sprint",
+        "activity_type": "Ride",
+        "distance": 257.752,
+        "average_grade": -2.9,
+        "maximum_grade": -1.9,
+        "elevation_high": 96.5,
+        "elevation_low": 89.1,
+        "start_latlng": [
+          57.731298,
+          -4.19181
+        ],
+        "end_latlng": [
+          57.729221,
+          -4.193728
+        ],
+        "start_latitude": 57.731298,
+        "start_longitude": -4.19181,
+        "end_latitude": 57.729221,
+        "end_longitude": -4.193728,
+        "climb_category": 0,
+        "city": "Invergordon",
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834042139,
+      "resource_state": 2,
+      "name": "More Newmore",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 306,
+      "moving_time": 306,
+      "start_date": "2018-08-20T16:38:48Z",
+      "start_date_local": "2018-08-20T17:38:48Z",
+      "distance": 2737.2,
+      "start_index": 2277,
+      "end_index": 2391,
+      "average_cadence": 79.8,
+      "device_watts": false,
+      "average_watts": 97.8,
+      "segment": {
+        "id": 14755228,
+        "resource_state": 2,
+        "name": "More Newmore",
+        "activity_type": "Ride",
+        "distance": 2775.0,
+        "average_grade": -1.4,
+        "maximum_grade": 1.1,
+        "elevation_high": 83.8,
+        "elevation_low": 45.9,
+        "start_latlng": [
+          57.72672,
+          -4.196011
+        ],
+        "end_latlng": [
+          57.709543,
+          -4.226966
+        ],
+        "start_latitude": 57.72672,
+        "start_longitude": -4.196011,
+        "end_latitude": 57.709543,
+        "end_longitude": -4.226966,
+        "climb_category": 0,
+        "city": "Invergordon",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834042167,
+      "resource_state": 2,
+      "name": "Scotsburner",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 583,
+      "moving_time": 583,
+      "start_date": "2018-08-20T16:38:48Z",
+      "start_date_local": "2018-08-20T17:38:48Z",
+      "distance": 4752.2,
+      "start_index": 2277,
+      "end_index": 2476,
+      "average_cadence": 72.4,
+      "device_watts": false,
+      "average_watts": 117.6,
+      "segment": {
+        "id": 18055090,
+        "resource_state": 2,
+        "name": "Scotsburner",
+        "activity_type": "Ride",
+        "distance": 4832.9,
+        "average_grade": -0.7,
+        "maximum_grade": 4.9,
+        "elevation_high": 84.0,
+        "elevation_low": 35.0,
+        "start_latlng": [
+          57.726708,
+          -4.196033
+        ],
+        "end_latlng": [
+          57.704584,
+          -4.259254
+        ],
+        "start_latitude": 57.726708,
+        "start_longitude": -4.196033,
+        "end_latitude": 57.704584,
+        "end_longitude": -4.259254,
+        "climb_category": 0,
+        "city": "Invergordon",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834042206,
+      "resource_state": 2,
+      "name": "back road",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 261,
+      "moving_time": 261,
+      "start_date": "2018-08-20T16:44:18Z",
+      "start_date_local": "2018-08-20T17:44:18Z",
+      "distance": 1900.2,
+      "start_index": 2399,
+      "end_index": 2478,
+      "average_cadence": 66.5,
+      "device_watts": false,
+      "average_watts": 149.1,
+      "segment": {
+        "id": 4929399,
+        "resource_state": 2,
+        "name": "back road",
+        "activity_type": "Ride",
+        "distance": 1953.1,
+        "average_grade": 0.4,
+        "maximum_grade": 4.8,
+        "elevation_high": 50.0,
+        "elevation_low": 34.9,
+        "start_latlng": [
+          57.709182,
+          -4.228887
+        ],
+        "end_latlng": [
+          57.704502,
+          -4.259779
+        ],
+        "start_latitude": 57.709182,
+        "start_longitude": -4.228887,
+        "end_latitude": 57.704502,
+        "end_longitude": -4.259779,
+        "climb_category": 0,
+        "city": "Invergordon IV18, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834042367,
+      "resource_state": 2,
+      "name": "Westford to skiach",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 231,
+      "moving_time": 231,
+      "start_date": "2018-08-20T16:53:32Z",
+      "start_date_local": "2018-08-20T17:53:32Z",
+      "distance": 1754.8,
+      "start_index": 2570,
+      "end_index": 2641,
+      "average_cadence": 79.8,
+      "device_watts": false,
+      "average_watts": 133.9,
+      "segment": {
+        "id": 4253624,
+        "resource_state": 2,
+        "name": "Westford to skiach",
+        "activity_type": "Ride",
+        "distance": 1752.5,
+        "average_grade": -0.2,
+        "maximum_grade": 7.9,
+        "elevation_high": 36.4,
+        "elevation_low": 18.6,
+        "start_latlng": [
+          57.692352,
+          -4.271057
+        ],
+        "end_latlng": [
+          57.68361,
+          -4.294829
+        ],
+        "start_latitude": 57.692352,
+        "start_longitude": -4.271057,
+        "end_latitude": 57.68361,
+        "end_longitude": -4.294829,
+        "climb_category": 0,
+        "city": "Alness",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": false
+    },
+    {
+      "id": 44834042445,
+      "resource_state": 2,
+      "name": "Skiach to evanton",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 578,
+      "moving_time": 456,
+      "start_date": "2018-08-20T16:59:05Z",
+      "start_date_local": "2018-08-20T17:59:05Z",
+      "distance": 2622.6,
+      "start_index": 2659,
+      "end_index": 2790,
+      "average_cadence": 67.0,
+      "device_watts": false,
+      "average_watts": 90.9,
+      "segment": {
+        "id": 3362512,
+        "resource_state": 2,
+        "name": "Skiach to evanton",
+        "activity_type": "Ride",
+        "distance": 2608.26,
+        "average_grade": 0.3,
+        "maximum_grade": 6.0,
+        "elevation_high": 15.6,
+        "elevation_low": 5.4,
+        "start_latlng": [
+          57.68138883635402,
+          -4.298211866989732
+        ],
+        "end_latlng": [
+          57.66637944616377,
+          -4.330343725159764
+        ],
+        "start_latitude": 57.68138883635402,
+        "start_longitude": -4.298211866989732,
+        "end_latitude": 57.66637944616377,
+        "end_longitude": -4.330343725159764,
+        "climb_category": 0,
+        "city": "Alness",
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042412,
+      "resource_state": 2,
+      "name": "Half wheel",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 201,
+      "moving_time": 201,
+      "start_date": "2018-08-20T16:59:14Z",
+      "start_date_local": "2018-08-20T17:59:14Z",
+      "distance": 1386.6,
+      "start_index": 2662,
+      "end_index": 2728,
+      "average_cadence": 71.7,
+      "device_watts": false,
+      "average_watts": 140.7,
+      "segment": {
+        "id": 7700788,
+        "resource_state": 2,
+        "name": "Half wheel",
+        "activity_type": "Ride",
+        "distance": 1417.1,
+        "average_grade": 0.4,
+        "maximum_grade": 4.1,
+        "elevation_high": -7.4,
+        "elevation_low": -13.6,
+        "start_latlng": [
+          57.680865,
+          -4.298843
+        ],
+        "end_latlng": [
+          57.674175,
+          -4.317978
+        ],
+        "start_latitude": 57.680865,
+        "start_longitude": -4.298843,
+        "end_latitude": 57.674175,
+        "end_longitude": -4.317978,
+        "climb_category": 0,
+        "city": "IV17, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042501,
+      "resource_state": 2,
+      "name": "Foulis straight",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1033,
+      "moving_time": 1033,
+      "start_date": "2018-08-20T17:21:02Z",
+      "start_date_local": "2018-08-20T18:21:02Z",
+      "distance": 5765.4,
+      "start_index": 2868,
+      "end_index": 3127,
+      "average_cadence": 77.9,
+      "device_watts": false,
+      "average_watts": 132.9,
+      "segment": {
+        "id": 7037454,
+        "resource_state": 2,
+        "name": "Foulis straight",
+        "activity_type": "Ride",
+        "distance": 5662.1,
+        "average_grade": 1.4,
+        "maximum_grade": 14.9,
+        "elevation_high": 136.8,
+        "elevation_low": 55.0,
+        "start_latlng": [
+          57.657616,
+          -4.346343
+        ],
+        "end_latlng": [
+          57.620403,
+          -4.40063
+        ],
+        "start_latitude": 57.657616,
+        "start_longitude": -4.346343,
+        "end_latitude": 57.620403,
+        "end_longitude": -4.40063,
+        "climb_category": 0,
+        "city": "Evanton",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": null,
+      "achievements": [],
+      "hidden": true
+    },
+    {
+      "id": 44834042600,
+      "resource_state": 2,
+      "name": "Evanton to dingwall back road",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1400,
+      "moving_time": 1322,
+      "start_date": "2018-08-20T17:21:20Z",
+      "start_date_local": "2018-08-20T18:21:20Z",
+      "distance": 8132.8,
+      "start_index": 2873,
+      "end_index": 3234,
+      "average_cadence": 77.8,
+      "device_watts": false,
+      "average_watts": 119.0,
+      "segment": {
+        "id": 3371325,
+        "resource_state": 2,
+        "name": "Evanton to dingwall back road",
+        "activity_type": "Ride",
+        "distance": 8089.71,
+        "average_grade": 0.0,
+        "maximum_grade": 12.7,
+        "elevation_high": 148.2,
+        "elevation_low": 68.0,
+        "start_latlng": [
+          57.65705189667642,
+          -4.347428223118186
+        ],
+        "end_latlng": [
+          57.604945711791515,
+          -4.429243393242359
+        ],
+        "start_latitude": 57.65705189667642,
+        "start_longitude": -4.347428223118186,
+        "end_latitude": 57.604945711791515,
+        "end_longitude": -4.429243393242359,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": "Highland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042470,
+      "resource_state": 2,
+      "name": "Shed to the Corner",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 128,
+      "moving_time": 128,
+      "start_date": "2018-08-20T17:28:06Z",
+      "start_date_local": "2018-08-20T18:28:06Z",
+      "distance": 605.2,
+      "start_index": 2992,
+      "end_index": 3020,
+      "average_cadence": 80.8,
+      "device_watts": false,
+      "average_watts": 150.3,
+      "segment": {
+        "id": 5547371,
+        "resource_state": 2,
+        "name": "Shed to the Corner",
+        "activity_type": "Ride",
+        "distance": 600.8,
+        "average_grade": 2.7,
+        "maximum_grade": 6.8,
+        "elevation_high": 64.8,
+        "elevation_low": 48.8,
+        "start_latlng": [
+          57.636875,
+          -4.365153
+        ],
+        "end_latlng": [
+          57.634987,
+          -4.374345
+        ],
+        "start_latitude": 57.636875,
+        "start_longitude": -4.365153,
+        "end_latitude": 57.634987,
+        "end_longitude": -4.374345,
+        "climb_category": 0,
+        "city": "Dingwall, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042534,
+      "resource_state": 2,
+      "name": "Hard back",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 563,
+      "moving_time": 563,
+      "start_date": "2018-08-20T17:29:08Z",
+      "start_date_local": "2018-08-20T18:29:08Z",
+      "distance": 2718.0,
+      "start_index": 3006,
+      "end_index": 3130,
+      "average_cadence": 75.4,
+      "device_watts": false,
+      "average_watts": 124.0,
+      "segment": {
+        "id": 7792834,
+        "resource_state": 2,
+        "name": "Hard back",
+        "activity_type": "Ride",
+        "distance": 2652.1,
+        "average_grade": 2.1,
+        "maximum_grade": 9.2,
+        "elevation_high": 115.8,
+        "elevation_low": 61.0,
+        "start_latlng": [
+          57.635609,
+          -4.369458
+        ],
+        "end_latlng": [
+          57.620138,
+          -4.40123
+        ],
+        "start_latitude": 57.635609,
+        "start_longitude": -4.369458,
+        "end_latitude": 57.620138,
+        "end_longitude": -4.40123,
+        "climb_category": 0,
+        "city": "Dingwall, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042568,
+      "resource_state": 2,
+      "name": "Dingwallawalla",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 342,
+      "moving_time": 264,
+      "start_date": "2018-08-20T17:38:56Z",
+      "start_date_local": "2018-08-20T18:38:56Z",
+      "distance": 2265.9,
+      "start_index": 3136,
+      "end_index": 3233,
+      "average_cadence": 71.3,
+      "device_watts": false,
+      "average_watts": 73.4,
+      "segment": {
+        "id": 10771445,
+        "resource_state": 2,
+        "name": "Dingwallawalla",
+        "activity_type": "Ride",
+        "distance": 2284.2,
+        "average_grade": -3.2,
+        "maximum_grade": 0.1,
+        "elevation_high": 111.6,
+        "elevation_low": 39.1,
+        "start_latlng": [
+          57.619361,
+          -4.402555
+        ],
+        "end_latlng": [
+          57.605017,
+          -4.429064
+        ],
+        "start_latitude": 57.619361,
+        "start_longitude": -4.402555,
+        "end_latitude": 57.605017,
+        "end_longitude": -4.429064,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042626,
+      "resource_state": 2,
+      "name": "Old Evanton Road Roller",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 63,
+      "moving_time": 63,
+      "start_date": "2018-08-20T17:43:41Z",
+      "start_date_local": "2018-08-20T18:43:41Z",
+      "distance": 740.4,
+      "start_index": 3204,
+      "end_index": 3236,
+      "average_cadence": 0.0,
+      "device_watts": false,
+      "average_watts": 83.0,
+      "segment": {
+        "id": 14414050,
+        "resource_state": 2,
+        "name": "Old Evanton Road Roller",
+        "activity_type": "Ride",
+        "distance": 766.2,
+        "average_grade": -3.4,
+        "maximum_grade": 1.5,
+        "elevation_high": 63.1,
+        "elevation_low": 37.0,
+        "start_latlng": [
+          57.60894,
+          -4.420346
+        ],
+        "end_latlng": [
+          57.60473,
+          -4.430108
+        ],
+        "start_latitude": 57.60894,
+        "start_longitude": -4.420346,
+        "end_latitude": 57.60473,
+        "end_longitude": -4.430108,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042679,
+      "resource_state": 2,
+      "name": "Kinnairdie Down",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 76,
+      "moving_time": 76,
+      "start_date": "2018-08-20T17:44:53Z",
+      "start_date_local": "2018-08-20T18:44:53Z",
+      "distance": 389.0,
+      "start_index": 3240,
+      "end_index": 3255,
+      "average_cadence": 0.0,
+      "device_watts": false,
+      "average_watts": 20.8,
+      "segment": {
+        "id": 10771474,
+        "resource_state": 2,
+        "name": "Kinnairdie Down",
+        "activity_type": "Ride",
+        "distance": 373.9,
+        "average_grade": -7.2,
+        "maximum_grade": -2.6,
+        "elevation_high": 33.9,
+        "elevation_low": 6.8,
+        "start_latlng": [
+          57.604297,
+          -4.430589
+        ],
+        "end_latlng": [
+          57.601132,
+          -4.428499
+        ],
+        "start_latitude": 57.604297,
+        "start_longitude": -4.430589,
+        "end_latitude": 57.601132,
+        "end_longitude": -4.428499,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042708,
+      "resource_state": 2,
+      "name": "Sprint through Dingers",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 149,
+      "moving_time": 149,
+      "start_date": "2018-08-20T17:46:18Z",
+      "start_date_local": "2018-08-20T18:46:18Z",
+      "distance": 1125.2,
+      "start_index": 3258,
+      "end_index": 3312,
+      "average_cadence": 77.5,
+      "device_watts": false,
+      "average_watts": 196.5,
+      "segment": {
+        "id": 7977692,
+        "resource_state": 2,
+        "name": "Sprint through Dingers",
+        "activity_type": "Ride",
+        "distance": 1101.3,
+        "average_grade": 1.1,
+        "maximum_grade": 8.9,
+        "elevation_high": 17.3,
+        "elevation_low": 4.0,
+        "start_latlng": [
+          57.600693,
+          -4.428975
+        ],
+        "end_latlng": [
+          57.592412,
+          -4.423759
+        ],
+        "start_latitude": 57.600693,
+        "start_longitude": -4.428975,
+        "end_latitude": 57.592412,
+        "end_longitude": -4.423759,
+        "climb_category": 0,
+        "city": "Dingwall",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042728,
+      "resource_state": 2,
+      "name": "Mart Straight",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 138,
+      "moving_time": 138,
+      "start_date": "2018-08-20T17:50:16Z",
+      "start_date_local": "2018-08-20T18:50:16Z",
+      "distance": 1134.9,
+      "start_index": 3335,
+      "end_index": 3381,
+      "average_cadence": 88.3,
+      "device_watts": false,
+      "average_watts": 128.9,
+      "segment": {
+        "id": 7701995,
+        "resource_state": 2,
+        "name": "Mart Straight",
+        "activity_type": "Ride",
+        "distance": 1142.4,
+        "average_grade": -0.2,
+        "maximum_grade": 4.1,
+        "elevation_high": 14.7,
+        "elevation_low": 10.0,
+        "start_latlng": [
+          57.588018,
+          -4.425988
+        ],
+        "end_latlng": [
+          57.579707,
+          -4.437172
+        ],
+        "start_latitude": 57.588018,
+        "start_longitude": -4.425988,
+        "end_latitude": 57.579707,
+        "end_longitude": -4.437172,
+        "climb_category": 0,
+        "city": "Dingwall, UK",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": 44834042752,
+      "resource_state": 2,
+      "name": "Maryburgh Roundabout to Conon Bridge",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 140,
+      "moving_time": 140,
+      "start_date": "2018-08-20T17:52:50Z",
+      "start_date_local": "2018-08-20T18:52:50Z",
+      "distance": 1171.3,
+      "start_index": 3387,
+      "end_index": 3434,
+      "average_cadence": 85.4,
+      "device_watts": false,
+      "average_watts": 127.3,
+      "segment": {
+        "id": 9063900,
+        "resource_state": 2,
+        "name": "Maryburgh Roundabout to Conon Bridge",
+        "activity_type": "Ride",
+        "distance": 1165.6,
+        "average_grade": -0.5,
+        "maximum_grade": 4.8,
+        "elevation_high": 11.6,
+        "elevation_low": 0.8,
+        "start_latlng": [
+          57.578721,
+          -4.438092
+        ],
+        "end_latlng": [
+          57.568852,
+          -4.44097
+        ],
+        "start_latitude": 57.578721,
+        "start_longitude": -4.438092,
+        "end_latitude": 57.568852,
+        "end_longitude": -4.44097,
+        "climb_category": 0,
+        "city": "Maryburgh",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "kom_rank": null,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1009.8,
+      "elapsed_time": 138,
+      "elevation_difference": -3.4,
+      "moving_time": 138,
+      "split": 1,
+      "average_speed": 7.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.9,
+      "elapsed_time": 152,
+      "elevation_difference": 11.6,
+      "moving_time": 152,
+      "split": 2,
+      "average_speed": 6.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 980.2,
+      "elapsed_time": 121,
+      "elevation_difference": -18.7,
+      "moving_time": 121,
+      "split": 3,
+      "average_speed": 8.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 126,
+      "elevation_difference": 4.5,
+      "moving_time": 126,
+      "split": 4,
+      "average_speed": 7.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.3,
+      "elapsed_time": 166,
+      "elevation_difference": 0.4,
+      "moving_time": 166,
+      "split": 5,
+      "average_speed": 6.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.4,
+      "elapsed_time": 140,
+      "elevation_difference": 2.7,
+      "moving_time": 140,
+      "split": 6,
+      "average_speed": 7.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 163,
+      "elevation_difference": 18.1,
+      "moving_time": 163,
+      "split": 7,
+      "average_speed": 6.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1012.4,
+      "elapsed_time": 261,
+      "elevation_difference": 50.5,
+      "moving_time": 261,
+      "split": 8,
+      "average_speed": 3.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 988.1,
+      "elapsed_time": 219,
+      "elevation_difference": 25.1,
+      "moving_time": 219,
+      "split": 9,
+      "average_speed": 4.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 153,
+      "elevation_difference": 7.9,
+      "moving_time": 153,
+      "split": 10,
+      "average_speed": 6.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 109,
+      "elevation_difference": -20.8,
+      "moving_time": 109,
+      "split": 11,
+      "average_speed": 9.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1017.4,
+      "elapsed_time": 108,
+      "elevation_difference": -17.3,
+      "moving_time": 108,
+      "split": 12,
+      "average_speed": 9.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.0,
+      "elapsed_time": 116,
+      "elevation_difference": -13.3,
+      "moving_time": 116,
+      "split": 13,
+      "average_speed": 8.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.8,
+      "elapsed_time": 155,
+      "elevation_difference": -2.2,
+      "moving_time": 155,
+      "split": 14,
+      "average_speed": 6.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 983.8,
+      "elapsed_time": 135,
+      "elevation_difference": 5.2,
+      "moving_time": 135,
+      "split": 15,
+      "average_speed": 7.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1021.1,
+      "elapsed_time": 132,
+      "elevation_difference": -4.3,
+      "moving_time": 132,
+      "split": 16,
+      "average_speed": 7.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 987.9,
+      "elapsed_time": 107,
+      "elevation_difference": -16.5,
+      "moving_time": 107,
+      "split": 17,
+      "average_speed": 9.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 111,
+      "elevation_difference": -12.5,
+      "moving_time": 111,
+      "split": 18,
+      "average_speed": 8.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.9,
+      "elapsed_time": 90,
+      "elevation_difference": -29.6,
+      "moving_time": 90,
+      "split": 19,
+      "average_speed": 11.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 146,
+      "elevation_difference": 4.1,
+      "moving_time": 146,
+      "split": 20,
+      "average_speed": 6.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 123,
+      "elevation_difference": -3.8,
+      "moving_time": 123,
+      "split": 21,
+      "average_speed": 8.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 129,
+      "elevation_difference": -1.8,
+      "moving_time": 129,
+      "split": 22,
+      "average_speed": 7.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.9,
+      "elapsed_time": 127,
+      "elevation_difference": 1.4,
+      "moving_time": 127,
+      "split": 23,
+      "average_speed": 7.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 129,
+      "elevation_difference": 6.4,
+      "moving_time": 129,
+      "split": 24,
+      "average_speed": 7.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 125,
+      "elevation_difference": -0.4,
+      "moving_time": 125,
+      "split": 25,
+      "average_speed": 8.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1013.3,
+      "elapsed_time": 127,
+      "elevation_difference": 0.2,
+      "moving_time": 127,
+      "split": 26,
+      "average_speed": 7.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 977.4,
+      "elapsed_time": 124,
+      "elevation_difference": 3.3,
+      "moving_time": 124,
+      "split": 27,
+      "average_speed": 7.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.0,
+      "elapsed_time": 129,
+      "elevation_difference": 3.5,
+      "moving_time": 129,
+      "split": 28,
+      "average_speed": 7.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 986.9,
+      "elapsed_time": 130,
+      "elevation_difference": -19.3,
+      "moving_time": 130,
+      "split": 29,
+      "average_speed": 7.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1017.7,
+      "elapsed_time": 1689,
+      "elevation_difference": 4.6,
+      "moving_time": 318,
+      "split": 30,
+      "average_speed": 3.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.9,
+      "elapsed_time": 129,
+      "elevation_difference": -1.8,
+      "moving_time": 129,
+      "split": 31,
+      "average_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 132,
+      "elevation_difference": -1.9,
+      "moving_time": 132,
+      "split": 32,
+      "average_speed": 7.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1012.9,
+      "elapsed_time": 132,
+      "elevation_difference": 3.2,
+      "moving_time": 132,
+      "split": 33,
+      "average_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 127,
+      "elevation_difference": 3.6,
+      "moving_time": 127,
+      "split": 34,
+      "average_speed": 7.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.8,
+      "elapsed_time": 135,
+      "elevation_difference": -1.6,
+      "moving_time": 135,
+      "split": 35,
+      "average_speed": 7.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 139,
+      "elevation_difference": -2.9,
+      "moving_time": 139,
+      "split": 36,
+      "average_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 135,
+      "elevation_difference": -1.4,
+      "moving_time": 135,
+      "split": 37,
+      "average_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 985.5,
+      "elapsed_time": 132,
+      "elevation_difference": 0.1,
+      "moving_time": 132,
+      "split": 38,
+      "average_speed": 7.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 153,
+      "elevation_difference": 3.4,
+      "moving_time": 153,
+      "split": 39,
+      "average_speed": 6.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 189,
+      "elevation_difference": 15.9,
+      "moving_time": 189,
+      "split": 40,
+      "average_speed": 5.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1016.6,
+      "elapsed_time": 281,
+      "elevation_difference": 9.2,
+      "moving_time": 179,
+      "split": 41,
+      "average_speed": 5.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 984.0,
+      "elapsed_time": 137,
+      "elevation_difference": 6.4,
+      "moving_time": 137,
+      "split": 42,
+      "average_speed": 7.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 192,
+      "elevation_difference": 18.2,
+      "moving_time": 192,
+      "split": 43,
+      "average_speed": 5.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.1,
+      "elapsed_time": 148,
+      "elevation_difference": 8.6,
+      "moving_time": 148,
+      "split": 44,
+      "average_speed": 6.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1018.9,
+      "elapsed_time": 196,
+      "elevation_difference": 28.0,
+      "moving_time": 196,
+      "split": 45,
+      "average_speed": 5.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 983.8,
+      "elapsed_time": 223,
+      "elevation_difference": 13.4,
+      "moving_time": 223,
+      "split": 46,
+      "average_speed": 4.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 107,
+      "elevation_difference": -28.6,
+      "moving_time": 107,
+      "split": 47,
+      "average_speed": 9.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.7,
+      "elapsed_time": 141,
+      "elevation_difference": 4.1,
+      "moving_time": 141,
+      "split": 48,
+      "average_speed": 7.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 986.2,
+      "elapsed_time": 129,
+      "elevation_difference": 4.5,
+      "moving_time": 129,
+      "split": 49,
+      "average_speed": 7.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1017.9,
+      "elapsed_time": 142,
+      "elevation_difference": 3.3,
+      "moving_time": 142,
+      "split": 50,
+      "average_speed": 7.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 135,
+      "elevation_difference": 7.6,
+      "moving_time": 135,
+      "split": 51,
+      "average_speed": 7.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.1,
+      "elapsed_time": 127,
+      "elevation_difference": -9.2,
+      "moving_time": 127,
+      "split": 52,
+      "average_speed": 7.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 104,
+      "elevation_difference": -9.5,
+      "moving_time": 104,
+      "split": 53,
+      "average_speed": 9.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.3,
+      "elapsed_time": 125,
+      "elevation_difference": -20.4,
+      "moving_time": 125,
+      "split": 54,
+      "average_speed": 8.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.9,
+      "elapsed_time": 103,
+      "elevation_difference": -12.7,
+      "moving_time": 103,
+      "split": 55,
+      "average_speed": 9.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1016.3,
+      "elapsed_time": 121,
+      "elevation_difference": -10.9,
+      "moving_time": 121,
+      "split": 56,
+      "average_speed": 8.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 156,
+      "elevation_difference": 15.5,
+      "moving_time": 156,
+      "split": 57,
+      "average_speed": 6.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.9,
+      "elapsed_time": 126,
+      "elevation_difference": -25.3,
+      "moving_time": 126,
+      "split": 58,
+      "average_speed": 7.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 157,
+      "elevation_difference": -0.2,
+      "moving_time": 157,
+      "split": 59,
+      "average_speed": 6.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 128,
+      "elevation_difference": -15.9,
+      "moving_time": 128,
+      "split": 60,
+      "average_speed": 7.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.9,
+      "elapsed_time": 166,
+      "elevation_difference": 10.6,
+      "moving_time": 166,
+      "split": 61,
+      "average_speed": 6.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.3,
+      "elapsed_time": 164,
+      "elevation_difference": 6.6,
+      "moving_time": 164,
+      "split": 62,
+      "average_speed": 6.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.1,
+      "elapsed_time": 158,
+      "elevation_difference": -1.6,
+      "moving_time": 158,
+      "split": 63,
+      "average_speed": 6.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.5,
+      "elapsed_time": 341,
+      "elevation_difference": 1.8,
+      "moving_time": 219,
+      "split": 64,
+      "average_speed": 4.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.2,
+      "elapsed_time": 647,
+      "elevation_difference": 2.1,
+      "moving_time": 186,
+      "split": 65,
+      "average_speed": 5.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.5,
+      "elapsed_time": 154,
+      "elevation_difference": 14.0,
+      "moving_time": 154,
+      "split": 66,
+      "average_speed": 6.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.7,
+      "elapsed_time": 151,
+      "elevation_difference": 3.2,
+      "moving_time": 151,
+      "split": 67,
+      "average_speed": 6.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.6,
+      "elapsed_time": 143,
+      "elevation_difference": -0.6,
+      "moving_time": 143,
+      "split": 68,
+      "average_speed": 6.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1011.9,
+      "elapsed_time": 194,
+      "elevation_difference": 20.0,
+      "moving_time": 194,
+      "split": 69,
+      "average_speed": 5.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 983.9,
+      "elapsed_time": 196,
+      "elevation_difference": 20.0,
+      "moving_time": 196,
+      "split": 70,
+      "average_speed": 5.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1017.9,
+      "elapsed_time": 211,
+      "elevation_difference": 15.9,
+      "moving_time": 211,
+      "split": 71,
+      "average_speed": 4.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 279,
+      "elevation_difference": 0.7,
+      "moving_time": 201,
+      "split": 72,
+      "average_speed": 4.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 97,
+      "elevation_difference": -39.8,
+      "moving_time": 97,
+      "split": 73,
+      "average_speed": 10.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 89,
+      "elevation_difference": -44.2,
+      "moving_time": 89,
+      "split": 74,
+      "average_speed": 11.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.0,
+      "elapsed_time": 168,
+      "elevation_difference": -9.4,
+      "moving_time": 168,
+      "split": 75,
+      "average_speed": 5.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 988.3,
+      "elapsed_time": 151,
+      "elevation_difference": 3.6,
+      "moving_time": 151,
+      "split": 76,
+      "average_speed": 6.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 120,
+      "elevation_difference": -0.1,
+      "moving_time": 120,
+      "split": 77,
+      "average_speed": 8.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.0,
+      "elapsed_time": 121,
+      "elevation_difference": -0.6,
+      "moving_time": 121,
+      "split": 78,
+      "average_speed": 8.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 987.8,
+      "elapsed_time": 154,
+      "elevation_difference": 4.6,
+      "moving_time": 154,
+      "split": 79,
+      "average_speed": 6.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 693.7,
+      "elapsed_time": 170,
+      "elevation_difference": 15.2,
+      "moving_time": 170,
+      "split": 80,
+      "average_speed": 4.08,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1615.5,
+      "elapsed_time": 223,
+      "elevation_difference": -3.9,
+      "moving_time": 223,
+      "split": 1,
+      "average_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 213,
+      "elevation_difference": -8.9,
+      "moving_time": 213,
+      "split": 2,
+      "average_speed": 7.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 223,
+      "elevation_difference": 4.8,
+      "moving_time": 223,
+      "split": 3,
+      "average_speed": 7.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.8,
+      "elapsed_time": 242,
+      "elevation_difference": 5.4,
+      "moving_time": 242,
+      "split": 4,
+      "average_speed": 6.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 374,
+      "elevation_difference": 69.5,
+      "moving_time": 374,
+      "split": 5,
+      "average_speed": 4.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1627.8,
+      "elapsed_time": 325,
+      "elevation_difference": 31.7,
+      "moving_time": 325,
+      "split": 6,
+      "average_speed": 5.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.3,
+      "elapsed_time": 178,
+      "elevation_difference": -28.3,
+      "moving_time": 178,
+      "split": 7,
+      "average_speed": 9.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.3,
+      "elapsed_time": 174,
+      "elevation_difference": -21.3,
+      "moving_time": 174,
+      "split": 8,
+      "average_speed": 9.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 241,
+      "elevation_difference": -1.8,
+      "moving_time": 241,
+      "split": 9,
+      "average_speed": 6.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1592.0,
+      "elapsed_time": 209,
+      "elevation_difference": -2.1,
+      "moving_time": 209,
+      "split": 10,
+      "average_speed": 7.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1626.0,
+      "elapsed_time": 177,
+      "elevation_difference": -26.5,
+      "moving_time": 177,
+      "split": 11,
+      "average_speed": 9.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 157,
+      "elevation_difference": -28.8,
+      "moving_time": 157,
+      "split": 12,
+      "average_speed": 10.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 226,
+      "elevation_difference": -1.3,
+      "moving_time": 226,
+      "split": 13,
+      "average_speed": 7.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.4,
+      "elapsed_time": 205,
+      "elevation_difference": -4.0,
+      "moving_time": 205,
+      "split": 14,
+      "average_speed": 7.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 206,
+      "elevation_difference": 7.7,
+      "moving_time": 206,
+      "split": 15,
+      "average_speed": 7.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 202,
+      "elevation_difference": -1.4,
+      "moving_time": 202,
+      "split": 16,
+      "average_speed": 7.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1626.3,
+      "elapsed_time": 205,
+      "elevation_difference": 6.9,
+      "moving_time": 205,
+      "split": 17,
+      "average_speed": 7.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1597.4,
+      "elapsed_time": 207,
+      "elevation_difference": -16.8,
+      "moving_time": 207,
+      "split": 18,
+      "average_speed": 7.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.8,
+      "elapsed_time": 1768,
+      "elevation_difference": 4.0,
+      "moving_time": 397,
+      "split": 19,
+      "average_speed": 4.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1595.2,
+      "elapsed_time": 210,
+      "elevation_difference": -1.3,
+      "moving_time": 210,
+      "split": 20,
+      "average_speed": 7.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.9,
+      "elapsed_time": 208,
+      "elevation_difference": 5.2,
+      "moving_time": 208,
+      "split": 21,
+      "average_speed": 7.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.0,
+      "elapsed_time": 220,
+      "elevation_difference": -2.7,
+      "moving_time": 220,
+      "split": 22,
+      "average_speed": 7.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.3,
+      "elapsed_time": 216,
+      "elevation_difference": -3.3,
+      "moving_time": 216,
+      "split": 23,
+      "average_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 225,
+      "elevation_difference": 1.3,
+      "moving_time": 225,
+      "split": 24,
+      "average_speed": 7.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 406,
+      "elevation_difference": 18.2,
+      "moving_time": 304,
+      "split": 25,
+      "average_speed": 5.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1620.5,
+      "elapsed_time": 240,
+      "elevation_difference": 15.3,
+      "moving_time": 240,
+      "split": 26,
+      "average_speed": 6.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 283,
+      "elevation_difference": 22.8,
+      "moving_time": 283,
+      "split": 27,
+      "average_speed": 5.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.1,
+      "elapsed_time": 286,
+      "elevation_difference": 33.1,
+      "moving_time": 286,
+      "split": 28,
+      "average_speed": 5.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1620.1,
+      "elapsed_time": 291,
+      "elevation_difference": -10.6,
+      "moving_time": 291,
+      "split": 29,
+      "average_speed": 5.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1594.8,
+      "elapsed_time": 204,
+      "elevation_difference": 3.2,
+      "moving_time": 204,
+      "split": 30,
+      "average_speed": 7.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.2,
+      "elapsed_time": 216,
+      "elevation_difference": 3.3,
+      "moving_time": 216,
+      "split": 31,
+      "average_speed": 7.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.1,
+      "elapsed_time": 218,
+      "elevation_difference": 8.5,
+      "moving_time": 218,
+      "split": 32,
+      "average_speed": 7.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1629.1,
+      "elapsed_time": 185,
+      "elevation_difference": -19.5,
+      "moving_time": 185,
+      "split": 33,
+      "average_speed": 8.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.3,
+      "elapsed_time": 179,
+      "elevation_difference": -32.1,
+      "moving_time": 179,
+      "split": 34,
+      "average_speed": 8.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1594.5,
+      "elapsed_time": 190,
+      "elevation_difference": -11.5,
+      "moving_time": 190,
+      "split": 35,
+      "average_speed": 8.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1623.6,
+      "elapsed_time": 238,
+      "elevation_difference": -9.3,
+      "moving_time": 238,
+      "split": 36,
+      "average_speed": 6.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.2,
+      "elapsed_time": 244,
+      "elevation_difference": -7.9,
+      "moving_time": 244,
+      "split": 37,
+      "average_speed": 6.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.2,
+      "elapsed_time": 260,
+      "elevation_difference": 2.2,
+      "moving_time": 260,
+      "split": 38,
+      "average_speed": 6.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 233,
+      "elevation_difference": 8.7,
+      "moving_time": 233,
+      "split": 39,
+      "average_speed": 6.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.0,
+      "elapsed_time": 434,
+      "elevation_difference": 0.6,
+      "moving_time": 312,
+      "split": 40,
+      "average_speed": 5.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1621.4,
+      "elapsed_time": 750,
+      "elevation_difference": 12.7,
+      "moving_time": 289,
+      "split": 41,
+      "average_speed": 5.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1596.7,
+      "elapsed_time": 235,
+      "elevation_difference": 10.3,
+      "moving_time": 235,
+      "split": 42,
+      "average_speed": 6.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 285,
+      "elevation_difference": 15.8,
+      "moving_time": 285,
+      "split": 43,
+      "average_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 331,
+      "elevation_difference": 29.2,
+      "moving_time": 331,
+      "split": 44,
+      "average_speed": 4.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1620.6,
+      "elapsed_time": 369,
+      "elevation_difference": -9.2,
+      "moving_time": 291,
+      "split": 45,
+      "average_speed": 5.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 142,
+      "elevation_difference": -77.3,
+      "moving_time": 142,
+      "split": 46,
+      "average_speed": 11.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 272,
+      "elevation_difference": 2.0,
+      "moving_time": 272,
+      "split": 47,
+      "average_speed": 5.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 193,
+      "elevation_difference": -3.5,
+      "moving_time": 193,
+      "split": 48,
+      "average_speed": 8.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1590.5,
+      "elapsed_time": 213,
+      "elevation_difference": 4.0,
+      "moving_time": 213,
+      "split": 49,
+      "average_speed": 7.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 840.3,
+      "elapsed_time": 204,
+      "elevation_difference": 17.2,
+      "moving_time": 204,
+      "split": 50,
+      "average_speed": 4.12,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 5736579064,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1275,
+      "moving_time": 1275,
+      "start_date": "2018-08-20T14:07:41Z",
+      "start_date_local": "2018-08-20T15:07:41Z",
+      "distance": 8046.7,
+      "start_index": 0,
+      "end_index": 365,
+      "total_elevation_gain": 85.0,
+      "average_speed": 6.31,
+      "max_speed": 11.6,
+      "average_cadence": 80.6,
+      "device_watts": false,
+      "average_watts": 148.0,
+      "lap_index": 1,
+      "split": 1
+    },
+    {
+      "id": 5736579066,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1126,
+      "moving_time": 1126,
+      "start_date": "2018-08-20T14:29:01Z",
+      "start_date_local": "2018-08-20T15:29:01Z",
+      "distance": 8046.7,
+      "start_index": 366,
+      "end_index": 694,
+      "total_elevation_gain": 30.0,
+      "average_speed": 7.15,
+      "max_speed": 10.0,
+      "average_cadence": 85.3,
+      "device_watts": false,
+      "average_watts": 104.5,
+      "lap_index": 2,
+      "split": 2
+    },
+    {
+      "id": 5736579068,
+      "resource_state": 2,
+      "name": "Lap 3",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 970,
+      "moving_time": 970,
+      "start_date": "2018-08-20T14:47:46Z",
+      "start_date_local": "2018-08-20T15:47:46Z",
+      "distance": 8046.7,
+      "start_index": 695,
+      "end_index": 1027,
+      "total_elevation_gain": 4.0,
+      "average_speed": 8.3,
+      "max_speed": 12.7,
+      "average_cadence": 81.2,
+      "device_watts": false,
+      "average_watts": 120.9,
+      "lap_index": 3,
+      "split": 3
+    },
+    {
+      "id": 5736579069,
+      "resource_state": 2,
+      "name": "Lap 4",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 2592,
+      "moving_time": 1221,
+      "start_date": "2018-08-20T15:03:57Z",
+      "start_date_local": "2018-08-20T16:03:57Z",
+      "distance": 8046.7,
+      "start_index": 1028,
+      "end_index": 1381,
+      "total_elevation_gain": 0.0,
+      "average_speed": 3.1,
+      "max_speed": 9.3,
+      "average_cadence": 78.4,
+      "device_watts": false,
+      "average_watts": 119.2,
+      "lap_index": 4,
+      "split": 4
+    },
+    {
+      "id": 5736579072,
+      "resource_state": 2,
+      "name": "Lap 5",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1274,
+      "moving_time": 1172,
+      "start_date": "2018-08-20T15:47:09Z",
+      "start_date_local": "2018-08-20T16:47:09Z",
+      "distance": 8046.7,
+      "start_index": 1382,
+      "end_index": 1743,
+      "total_elevation_gain": 13.0,
+      "average_speed": 6.32,
+      "max_speed": 8.1,
+      "average_cadence": 78.3,
+      "device_watts": false,
+      "average_watts": 109.8,
+      "lap_index": 5,
+      "split": 5
+    },
+    {
+      "id": 5736579075,
+      "resource_state": 2,
+      "name": "Lap 6",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1304,
+      "moving_time": 1304,
+      "start_date": "2018-08-20T16:08:25Z",
+      "start_date_local": "2018-08-20T17:08:25Z",
+      "distance": 8046.7,
+      "start_index": 1744,
+      "end_index": 2101,
+      "total_elevation_gain": 106.0,
+      "average_speed": 6.17,
+      "max_speed": 13.4,
+      "average_cadence": 75.4,
+      "device_watts": false,
+      "average_watts": 141.9,
+      "lap_index": 6,
+      "split": 6
+    },
+    {
+      "id": 5736579077,
+      "resource_state": 2,
+      "name": "Lap 7",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 988,
+      "moving_time": 988,
+      "start_date": "2018-08-20T16:30:08Z",
+      "start_date_local": "2018-08-20T17:30:08Z",
+      "distance": 8046.7,
+      "start_index": 2102,
+      "end_index": 2445,
+      "total_elevation_gain": 4.0,
+      "average_speed": 8.14,
+      "max_speed": 11.1,
+      "average_cadence": 77.0,
+      "device_watts": false,
+      "average_watts": 112.6,
+      "lap_index": 7,
+      "split": 7
+    },
+    {
+      "id": 5736579079,
+      "resource_state": 2,
+      "name": "Lap 8",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1408,
+      "moving_time": 1286,
+      "start_date": "2018-08-20T16:46:36Z",
+      "start_date_local": "2018-08-20T17:46:36Z",
+      "distance": 8046.7,
+      "start_index": 2446,
+      "end_index": 2814,
+      "total_elevation_gain": 41.0,
+      "average_speed": 5.71,
+      "max_speed": 11.2,
+      "average_cadence": 69.4,
+      "device_watts": false,
+      "average_watts": 108.0,
+      "lap_index": 8,
+      "split": 8
+    },
+    {
+      "id": 5736579082,
+      "resource_state": 2,
+      "name": "Lap 9",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1969,
+      "moving_time": 1430,
+      "start_date": "2018-08-20T17:10:06Z",
+      "start_date_local": "2018-08-20T18:10:06Z",
+      "distance": 8046.7,
+      "start_index": 2815,
+      "end_index": 3182,
+      "total_elevation_gain": 89.0,
+      "average_speed": 4.09,
+      "max_speed": 13.1,
+      "average_cadence": 77.8,
+      "device_watts": false,
+      "average_watts": 117.8,
+      "lap_index": 9,
+      "split": 9
+    },
+    {
+      "id": 5736579085,
+      "resource_state": 2,
+      "name": "Lap 10",
+      "activity": {
+        "id": 1785730333,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 15668997,
+        "resource_state": 1
+      },
+      "elapsed_time": 1024,
+      "moving_time": 1024,
+      "start_date": "2018-08-20T17:42:54Z",
+      "start_date_local": "2018-08-20T18:42:54Z",
+      "distance": 7278.72,
+      "start_index": 3183,
+      "end_index": 3504,
+      "total_elevation_gain": 19.0,
+      "average_speed": 7.11,
+      "max_speed": 15.4,
+      "average_cadence": 82.1,
+      "device_watts": false,
+      "average_watts": 124.6,
+      "lap_index": 10,
+      "split": 10
+    }
+  ],
+  "gear": {
+    "id": "b3242345",
+    "primary": true,
+    "name": "Fuji",
+    "resource_state": 2,
+    "distance": 25525307.0
+  },
+  "photos": {
+    "primary": {
+      "id": null,
+      "unique_id": "CE48D2FA-4C74-4737-9D9A-F633CF933D4A",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/PbuOo_qSBa3dS4oDvLEvFfqJF5-QBtb2MhDSuWx5TWE-768x288.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/PbuOo_qSBa3dS4oDvLEvFfqJF5-QBtb2MhDSuWx5TWE-128x48.jpg"
+      },
+      "source": 1
+    },
+    "use_primary_photo": true,
+    "count": 4
+  },
+  "device_name": "Garmin Edge 25",
+  "embed_token": "31843fae157d98e8acfe90b291001d64a9136c39",
+  "available_zones": [
+    "power"
+  ]
+}
