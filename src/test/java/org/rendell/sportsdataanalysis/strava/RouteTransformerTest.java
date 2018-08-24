@@ -1,16 +1,17 @@
 package org.rendell.sportsdataanalysis.strava;
 
-import org.apache.commons.io.IOUtils;
 import org.codehaus.jackson.map.ObjectMapper;
 import org.junit.jupiter.api.Test;
+import org.rendell.sportsdataanalysis.domain.Coordinate;
 import org.rendell.sportsdataanalysis.domain.Route;
 import org.rendell.sportsdataanalysis.strava.dto.Activity;
+import org.rendell.sportsdataanalysis.streamprocessors.RouteTransformer;
 
 import java.io.InputStream;
+import java.util.Arrays;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
-import static org.junit.jupiter.api.Assertions.*;
 
 class RouteTransformerTest {
 
@@ -27,7 +28,7 @@ class RouteTransformerTest {
 
         Route actualRoute = routeTransformer.fromActivity(activity);
 
-        Route expectedRoute = new Route("FAKE_POLYLINE_FOR_TEST");
+        Route expectedRoute = new Route(Arrays.asList(new Coordinate(11,11)));
         assertThat(actualRoute.getPolyline(), is(expectedRoute.getPolyline()));
     }
 

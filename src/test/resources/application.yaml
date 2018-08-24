@@ -1,0 +1,11 @@
+logging:
+   level:
+     org.springframework.web: DEBUG
+     org.rendell: DEBUG
+spring:
+  logging:
+    level:
+      org.springframework.web: DEBUG
+      org.rendell: DEBUG
+strava:
+  authorisation: fake_toekn

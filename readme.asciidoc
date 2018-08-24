@@ -20,8 +20,8 @@ Andrew Rendell <andrew@rendell.org>
 
 ==== Running TODO
 
-- Encrypt secret using jasypt before putting into git repo
-- put into github repo!
+- Get application working again!!
+-
 - Rather than expose native activity, just expose what I want to see
 - write some tests using JUnit5!
 

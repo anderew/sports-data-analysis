@@ -10,10 +10,13 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
+import java.util.HashMap;
+import java.util.Map;
+
 @Component
 public class StravaGateway {
 
-    private final String ACTIVITY_URL = "https://www.strava.com/api/v3/activities/1785730333?include_all_efforts=true";
+    private final String ACTIVITY_URL = "https://www.strava.com/api/v3/activities/{activityId}";
 
     private final RestTemplate restTemplate;
 
@@ -27,7 +30,14 @@ public class StravaGateway {
 
     public Activity loadActivity(String activityId) {
 
-        ResponseEntity<Activity> response = restTemplate.exchange(ACTIVITY_URL, HttpMethod.GET, new HttpEntity<Activity>(createHeaders()), Activity.class);
+        Map<String, String> uriVariables = new HashMap<>();
+        uriVariables.put("activityId", activityId);
+
+        ResponseEntity<Activity> response = restTemplate.exchange(ACTIVITY_URL,
+                HttpMethod.GET,
+                new HttpEntity<Activity>(createHeaders()),
+                Activity.class,
+                uriVariables);
 
         return response.getBody();
     }
