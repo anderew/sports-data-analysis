@@ -1,12 +1,13 @@
 package org.rendell.sportsdataanalysis.domain;
 
+import com.google.maps.model.EncodedPolyline;
+import com.google.maps.model.LatLng;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.codec.binary.Base64;
-import org.apache.commons.lang.NumberUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -26,46 +27,30 @@ public class Route {
 
     public static Route fromPolyline(String polyline) {
 
-        polyline.chars().mapToObj(c -> (char) c).collect(Collectors.toList());
+        EncodedPolyline encodedPolyline = new EncodedPolyline(polyline);
 
-        polyline.chars()
-                .boxed()
-                .map(i -> i - 63)
-                .map(i -> ~(i | 0x20) )
-                .forEach(e -> log.debug("{}", Integer.toBinaryString(e)));
+        List<LatLng> points = encodedPolyline.decodePath();
 
+        List<Coordinate> cords = points.stream()
+                .map(p -> new Coordinate(round(p.lng), round(p.lat)))
+                .collect(Collectors.toList());
 
-
-        // TODO
-        return null;
+        return new Route(cords);
     }
 
     public String getPolyline() {
 
-        // Cant do this as a stream because elements are processed differently based on side effects
-        List<Coordinate> relativeCoordinates = new ArrayList<>();
-        Coordinate previousCoordinate = null;
-        for(Coordinate originalCoordinate : asAbsoluteCoords) {
-            Coordinate relativeToPrevious = previousCoordinate == null ? originalCoordinate : originalCoordinate.moveToFrom(previousCoordinate);
-            previousCoordinate = originalCoordinate;
-            relativeCoordinates.add(relativeToPrevious);
-        }
+        List<LatLng> points = asAbsoluteCoords.stream()
+                .map(c -> new LatLng(c.getLatitude(), c.getLongitude()))
+                .collect(Collectors.toList());
 
-        log.debug("{}", relativeCoordinates);
+        EncodedPolyline encodedPolyline = new EncodedPolyline(points);
 
-        Coordinate lastCoordinate = null;
-        relativeCoordinates.stream()
-                .map(c -> new Coordinate(c.getLongitude() * 1E5, c.getLatitude() * 1E5))
-                .map(c -> new Coordinate(round(c.getLongitude()), round(c.getLatitude())))
-                .forEach(e -> log.debug("{} {}",  new String(Base64.encodeBase64(Double.toString(e.getLatitude()).getBytes())), new String(Base64.encodeBase64(Double.toString(e.getLongitude()).getBytes()))));
-
-        // TODO
-        return null;
+        return encodedPolyline.getEncodedPath();
     }
 
-    private Double round(Double d) {
-        return new Double(Math.round(d));
+    private static double round(double d) {
+        return Math.round(d * 1E5) / 1E5;
     }
-
 
 }

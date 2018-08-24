@@ -40,17 +40,13 @@ class RouteTest {
     @Test
     void simplePolylineDecodeFromGoogleExample() {
 
-        // This is a simple polyline from the head of Loch Avon to Etchachan
-        String inputPolyline = "`~oia@";
-
-        log.debug("inputPolyline: {}", inputPolyline);
+        String inputPolyline = "wgkyHjjSkMj@";
 
         Route actual = Route.fromPolyline(inputPolyline);
 
         assertThat(actual.getAsAbsoluteCoords(),
-                contains(new Coordinate(-120.2,38.5),
-                        new Coordinate(40.7,-120.95),
-                        new Coordinate(43.252,-126.453)
+                contains(new Coordinate(-0.10422,51.5086),
+                        new Coordinate(-0.10444,51.5109)
                 ));
     }
 
@@ -61,6 +57,6 @@ class RouteTest {
                         new Coordinate(-120.95,40.7),
                         new Coordinate(-126.453,43.252)));
 
-        assertThat(route.getPolyline(), is( "`~oia@"));
+        assertThat(route.getPolyline(), is( "_p~iF~ps|U_ulLnnqC_mqNvxq`@"));
     }
 }

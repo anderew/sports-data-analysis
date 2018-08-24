@@ -17,8 +17,6 @@ class RouteTransformerTest {
 
     @Test
     public void shouldTransformAnActivityFromStravaIntoASimpleRoute() throws Exception {
-
-
         ObjectMapper om = new ObjectMapper();
 
         InputStream is = this.getClass().getResourceAsStream("/json/activity.json");
@@ -28,8 +26,7 @@ class RouteTransformerTest {
 
         Route actualRoute = routeTransformer.fromActivity(activity);
 
-        Route expectedRoute = new Route(Arrays.asList(new Coordinate(11,11)));
-        assertThat(actualRoute.getPolyline(), is(expectedRoute.getPolyline()));
+        assertThat(actualRoute.getAsAbsoluteCoords().size(), is(1279));
     }
 
 }
