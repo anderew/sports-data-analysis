@@ -5,7 +5,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.rendell.sportsdataanalysis.Application;
-import org.rendell.sportsdataanalysis.strava.dto.Activity;
+import org.rendell.sportsdataanalysis.dto.Activity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.client.AutoConfigureWebClient;
 import org.springframework.boot.test.autoconfigure.web.client.RestClientTest;

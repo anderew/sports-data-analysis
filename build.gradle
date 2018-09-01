@@ -83,6 +83,9 @@ dependencies {
     // https://mvnrepository.com/artifact/com.github.ulisesbocchio/jasypt-spring-boot-starter
     compile group: 'com.github.ulisesbocchio', name: 'jasypt-spring-boot-starter', version: '2.1.0'
 
+    // https://mvnrepository.com/artifact/org.apache.commons/commons-csv
+    compile group: 'org.apache.commons', name: 'commons-csv', version: '1.5'
+
 
 }
 
@@ -111,7 +114,7 @@ jsonSchema2Pojo {
 
     // Package name used for generated Java classes (for types where a fully qualified name has not
     // been supplied in the schema using the 'javaType' property).
-    targetPackage = 'org.rendell.sportsdataanalysis.strava.dto'
+    targetPackage = 'org.rendell.sportsdataanalysis.dto'
 
     // The characters that should be considered as word delimiters when creating Java Bean property
     // names from JSON property names. If blank or not set, JSON properties will be considered to

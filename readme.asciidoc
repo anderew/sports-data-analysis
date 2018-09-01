@@ -20,10 +20,39 @@ Andrew Rendell <andrew@rendell.org>
 
 ==== Running TODO
 
-- Get application working again!!
--
-- Rather than expose native activity, just expose what I want to see
-- write some tests using JUnit5!
+* Call google maps API to determine elevation along route
+** There is an Elevation API which does almost exactly what I want. Oddly, works off long and lat, not polyline
+* Extend command line interface to allow list of activities
+* How to handle breaks between activities?
+* How to determine distance points?
 
 
  ./encrypt.sh input="This is my message to be encrypted" password=MYPAS_WORD
+
+ double lat_1 = 18.457793 * (Math.PI / 180);
+        double lon_1 = 73.3951930277778 *(Math.PI/180);
+        double alt_1 = 270.146;
+
+        double lat_2 = 18.4581253333333 * (Math.PI / 180);
+        double lon_2 = 73.3963755277778 * (Math.PI / 180);
+        double alt_2 = 317.473;
+
+        const Double r = 6376.5 *1000;//redius of earth in meaters
+
+        double x_1 = r * Math.Sin(lon_1) * Math.Cos(lat_1);
+        double y_1 = r * Math.Sin(lon_1) * Math.Sin(lat_1);
+        double z_1 = r * Math.Cos(lon_1);
+
+        double x_2 = r * Math.Sin(lon_2) * Math.Cos(lat_2);
+        double y_2 = r * Math.Sin(lon_2) * Math.Sin(lat_2);
+        double z_2 = r * Math.Cos(lon_2);
+
+        double dist = Math.Sqrt((x_2 - x_1) * (x_2 - x_1) + (y_2 - y_1) *
+                                (y_2 - y_1) + (z_2 - z_1) * (z_2 - z_1));
+
+
+                                x = alt * cos(lat) * sin(long)
+                                y = alt * sin(lat)
+                                z = alt * cos(lat) * cos(long)
+
+        Do I have to start thinking about persistence?

@@ -1,6 +1,6 @@
 package org.rendell.sportsdataanalysis.strava;
 
-import org.rendell.sportsdataanalysis.strava.dto.Activity;
+import org.rendell.sportsdataanalysis.dto.Activity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;

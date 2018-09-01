@@ -32,7 +32,7 @@ public class Route {
         List<LatLng> points = encodedPolyline.decodePath();
 
         List<Coordinate> cords = points.stream()
-                .map(p -> new Coordinate(round(p.lng), round(p.lat)))
+                .map(p -> new Coordinate(p.lng, p.lat, 0d))
                 .collect(Collectors.toList());
 
         return new Route(cords);
@@ -49,8 +49,6 @@ public class Route {
         return encodedPolyline.getEncodedPath();
     }
 
-    private static double round(double d) {
-        return Math.round(d * 1E5) / 1E5;
-    }
+
 
 }

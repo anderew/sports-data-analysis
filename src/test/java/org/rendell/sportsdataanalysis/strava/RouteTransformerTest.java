@@ -4,7 +4,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.rendell.sportsdataanalysis.domain.Coordinate;
 import org.rendell.sportsdataanalysis.domain.Route;
-import org.rendell.sportsdataanalysis.strava.dto.Activity;
+import org.rendell.sportsdataanalysis.dto.Activity;
 import org.rendell.sportsdataanalysis.streamprocessors.RouteTransformer;
 
 import java.io.InputStream;

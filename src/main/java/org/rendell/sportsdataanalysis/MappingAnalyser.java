@@ -2,6 +2,7 @@ package org.rendell.sportsdataanalysis;
 
 import org.rendell.sportsdataanalysis.domain.Coordinate;
 import org.rendell.sportsdataanalysis.domain.Route;
+import org.rendell.sportsdataanalysis.google.GoogleMapsApiGateway;
 import org.rendell.sportsdataanalysis.strava.StravaGateway;
 import org.rendell.sportsdataanalysis.streamprocessors.RouteTransformer;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,14 +17,18 @@ public class MappingAnalyser {
 
     private final StravaGateway stravaGateway;
     private final RouteTransformer routeTransformer;
+    private final GoogleMapsApiGateway googleMapsApiGateway;
 
     @Autowired
-    public MappingAnalyser(StravaGateway stravaGateway, RouteTransformer routeTransformer) {
+    public MappingAnalyser(StravaGateway stravaGateway,
+                           RouteTransformer routeTransformer,
+                           GoogleMapsApiGateway googleMapsApiGateway) {
         this.stravaGateway = stravaGateway;
         this.routeTransformer = routeTransformer;
+        this.googleMapsApiGateway = googleMapsApiGateway;
     }
 
-    public Route createSingleRoute(List<String> activities) {
+    public Route createRouteFrom(List<String> activities) {
         // TODO: Collect into route
         List<Coordinate> coordinates = activities.stream()
                 .map(activityId -> stravaGateway.loadActivity(activityId))
@@ -32,6 +37,6 @@ public class MappingAnalyser {
                 .flatMap(Collection::stream)
                 .collect(Collectors.toList());
 
-        return new Route(coordinates);
+        return googleMapsApiGateway.elaborateWithElevation(new Route(coordinates));
     }
 }

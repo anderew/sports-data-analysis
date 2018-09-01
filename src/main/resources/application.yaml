@@ -1,2 +1,7 @@
+logging:
+  level:
+    org.rendell: DEBUG
 strava:
   authorisation: ENC(9jjvURzWfZN/KgeYlMgBGFpJodw5YE8/JRhVJxe6YAxoKpKA9cwU30C8HvYVDVo7OHH6BC2Z7eM=)
+google:
+  key: ENC(cEu26nJUGt/43o6NL3K3MCjSP+lS91Ge1F03MxscjnIgg/hayY/xwvwZc0FrrKkz)

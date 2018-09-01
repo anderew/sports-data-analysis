@@ -10,10 +10,10 @@ class CoordinateTest {
     @Test
     void travelFromPointAToPointB() {
 
-        Coordinate pointA = new Coordinate(0, 0);
-        Coordinate pointB = new Coordinate(1, 0);
+        Coordinate pointA = new Coordinate(0, 0, 0);
+        Coordinate pointB = new Coordinate(1, 2, 3);
 
-        assertThat(pointB.moveToFrom(pointA), is(new Coordinate(1, 0)));
+        assertThat(pointB.moveToFrom(pointA), is(new Coordinate(1, 2, 3)));
 
     }
 }

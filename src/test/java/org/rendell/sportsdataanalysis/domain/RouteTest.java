@@ -22,17 +22,17 @@ class RouteTest {
         Route actual = Route.fromPolyline(inputPolyline);
 
         assertThat(actual.getAsAbsoluteCoords(),
-                contains(new Coordinate(-3.64333,57.09653),
-                        new Coordinate(-3.64311,57.09549),
-                        new Coordinate(-3.63955,57.09553),
-                        new Coordinate(-3.63749,57.08938)
+                contains(new Coordinate(-3.64333,57.09653, 0),
+                        new Coordinate(-3.64311,57.09549, 0),
+                        new Coordinate(-3.63955,57.09553, 0),
+                        new Coordinate(-3.63749,57.08938, 0)
                 ));
     }
 
     @Test
     void shouldBeAbleToEncodeAndDecodePolyline() {
 
-        Route input = new Route(Arrays.asList(new Coordinate(0,0), new Coordinate(0,54)));
+        Route input = new Route(Arrays.asList(new Coordinate(0,0, 0), new Coordinate(0,54, 0)));
 
         assertThat(input, is(Route.fromPolyline(input.getPolyline())));
     }
@@ -45,17 +45,17 @@ class RouteTest {
         Route actual = Route.fromPolyline(inputPolyline);
 
         assertThat(actual.getAsAbsoluteCoords(),
-                contains(new Coordinate(-0.10422,51.5086),
-                        new Coordinate(-0.10444,51.5109)
+                contains(new Coordinate(-0.10422,51.5086, 0),
+                        new Coordinate(-0.10444,51.5109, 0)
                 ));
     }
 
     @Test
     void simplePolylineEncodeFromGoogleExample() {
 
-        Route route = new Route(Arrays.asList(new Coordinate(-120.2,38.5),
-                        new Coordinate(-120.95,40.7),
-                        new Coordinate(-126.453,43.252)));
+        Route route = new Route(Arrays.asList(new Coordinate(-120.2,38.5, 0),
+                        new Coordinate(-120.95,40.7, 0),
+                        new Coordinate(-126.453,43.252, 0)));
 
         assertThat(route.getPolyline(), is( "_p~iF~ps|U_ulLnnqC_mqNvxq`@"));
     }

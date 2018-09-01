@@ -10,8 +10,9 @@ import org.mockito.junit.jupiter.MockitoSettings;
 import org.mockito.quality.Strictness;
 import org.rendell.sportsdataanalysis.domain.Coordinate;
 import org.rendell.sportsdataanalysis.domain.Route;
+import org.rendell.sportsdataanalysis.google.GoogleMapsApiGateway;
 import org.rendell.sportsdataanalysis.strava.StravaGateway;
-import org.rendell.sportsdataanalysis.strava.dto.Activity;
+import org.rendell.sportsdataanalysis.dto.Activity;
 import org.rendell.sportsdataanalysis.streamprocessors.RouteTransformer;
 
 import java.util.Arrays;
@@ -33,29 +34,37 @@ class MappingAnalyserTest implements WithAssertions {
     private RouteTransformer routeTransformer;
 
     @Mock
+    private GoogleMapsApiGateway googleMapsApiGateway;
+
+    @Mock
     private Activity firstActivity;
 
     @Mock
     private Activity secondActivity;
 
     @Test
-    void createSingleRoute() {
+    void whenPassedStravaActivitiesShouldCombineIntoSingleRouteWithElevationDistancesAndWaypoints() {
 
         when(stravaGateway.loadActivity("1")).thenReturn(firstActivity);
         when(stravaGateway.loadActivity("2")).thenReturn(secondActivity);
 
-        Route firstRoute = new Route(asList(new Coordinate(1,1), new Coordinate(2,2)));
+        Route firstRoute = new Route(asList(new Coordinate(1,1, 0), new Coordinate(2,2, 0)));
         when(routeTransformer.fromActivity(firstActivity)).thenReturn(firstRoute);
-        Route secondRoute = new Route(asList(new Coordinate(3,3), new Coordinate(4,4)));
+        Route secondRoute = new Route(asList(new Coordinate(3,3, 0), new Coordinate(4,4, 0)));
         when(routeTransformer.fromActivity(secondActivity)).thenReturn(secondRoute);
 
-        Route actual = mappingAnalyser.createSingleRoute(Arrays.asList("1", "2"));
+        Route combinedRouteWithoutElevation = new Route(asList(new Coordinate(1,1, 0),
+                new Coordinate(2,2, 0),
+                new Coordinate(3,3, 0),
+                new Coordinate(4,4, 0)));
+        Route combinedRouteWithElevation = new Route(asList(new Coordinate(1,1, 1),
+                new Coordinate(2,2, 2),
+                new Coordinate(3,3, 3),
+                new Coordinate(4,4, 4)));
+        when(googleMapsApiGateway.elaborateWithElevation(combinedRouteWithoutElevation)).thenReturn(combinedRouteWithElevation);
 
-        Route expected = new Route(asList(new Coordinate(1,1),
-                new Coordinate(2,2),
-                new Coordinate(3,3),
-                new Coordinate(4,4)));
+        Route actual = mappingAnalyser.createRouteFrom(Arrays.asList("1", "2"));
 
-        assertThat(actual).isEqualTo(expected);
+        assertThat(actual).isEqualTo(combinedRouteWithElevation);
     }
 }

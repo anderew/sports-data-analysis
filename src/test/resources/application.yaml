@@ -9,3 +9,5 @@ spring:
       org.rendell: DEBUG
 strava:
   authorisation: fake_toekn
+google:
+  key: fake_key

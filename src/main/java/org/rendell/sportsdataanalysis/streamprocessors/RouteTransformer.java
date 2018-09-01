@@ -3,8 +3,8 @@ package org.rendell.sportsdataanalysis.streamprocessors;
 import lombok.NonNull;
 import org.rendell.sportsdataanalysis.domain.Coordinate;
 import org.rendell.sportsdataanalysis.domain.Route;
-import org.rendell.sportsdataanalysis.strava.dto.Activity;
-import org.rendell.sportsdataanalysis.strava.dto.Map;
+import org.rendell.sportsdataanalysis.dto.Activity;
+import org.rendell.sportsdataanalysis.dto.Map;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
