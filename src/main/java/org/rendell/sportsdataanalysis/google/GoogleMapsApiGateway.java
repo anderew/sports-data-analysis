@@ -22,6 +22,7 @@ public class GoogleMapsApiGateway {
 
     public static final int MAX_SAMPLES_PER_ROUTE = 100;
     private static final String ELEVATION_URL = "https://maps.googleapis.com/maps/api/elevation/json?path=enc:{polyline}&samples={samples}&key={key}";
+    private static final int MAX_COORDS_PER_API_CALL = 500;
     private final RestTemplate restTemplate;
 
     private final String applicationKey;
@@ -32,33 +33,56 @@ public class GoogleMapsApiGateway {
         this.applicationKey = applicationKey;
     }
 
-    /**
-     * More expensive (in terms of calls to Google API) than passing a polyline
-     * @param coordinates
-     * @return
-     */
-    public List<Coordinate> elaborateWithElevation(List<Coordinate> coordinates) {
-        // TODO
-        return null;
+
+    public Route elaborateWithElevation(Route route) {
+
+        // Split route into series of sub-routes, each with a maximum number of coordinates
+        // Call elaborateSingleRouteWithElevation for each sub route
+        // Combine the elaborated routes into the entire route again
+        // Will potentially reduce resolution if max coords > samples but this might not be bad thing
+        List<Route> subroutes = split(route, MAX_COORDS_PER_API_CALL);
+
+        List<Coordinate> coords = subroutes.stream()
+                .flatMap(r -> elaborateSingleRouteWithElevation(r.getAsAbsoluteCoords()).stream())
+                .collect(Collectors.toList());
+
+        log.debug("Input route had {} coordinates, output has {} coordinates",
+                route.getAsAbsoluteCoords().size(),
+                coords.size());
+
+        return new Route(coords);
+    }
+
+    private List<Route> split(Route route, int maxCoordsPerRoute) {
+        List<Route> subroutes = new ArrayList<>();
+
+        for(int from = 0 ; from < route.getAsAbsoluteCoords().size() ; from+=maxCoordsPerRoute) {
+            int to = from + maxCoordsPerRoute > route.getAsAbsoluteCoords().size() ?
+                    route.getAsAbsoluteCoords().size() :
+                    from + maxCoordsPerRoute;
+
+            subroutes.add(new Route(route.getAsAbsoluteCoords().subList(from, to)));
+        }
+        return subroutes;
     }
 
     /**
      * Less calls to API(?) but will reduce resolution of route
      */
-    public Route elaborateWithElevation(Route route) {
+    private List<Coordinate> elaborateSingleRouteWithElevation(List<Coordinate> coords) {
 
-        int samples = route.getAsAbsoluteCoords().size() > MAX_SAMPLES_PER_ROUTE ?
+        int samples = coords.size() > MAX_SAMPLES_PER_ROUTE ?
                 MAX_SAMPLES_PER_ROUTE
-                : route.getAsAbsoluteCoords().size();
+                : coords.size();
 
-        Route reducedResolutionRoute = reduceResolution(route);
+        //Route reducedResolutionRoute = reduceResolution(route);
 
         Map<String, String> uriVariables = new HashMap<>();
-        uriVariables.put("polyline", reducedResolutionRoute.getPolyline());
+        uriVariables.put("polyline", new Route(coords).getPolyline());
         uriVariables.put("samples", Integer.toString(samples));
         uriVariables.put("key", applicationKey);
 
-        log.debug("Input polyline {}", route.getPolyline());
+        log.debug("Input polyline {}", uriVariables.get("polyline"));
 
         Elevation_api response = null;
         try {
@@ -72,16 +96,13 @@ public class GoogleMapsApiGateway {
                 .map(r -> new Coordinate(r.getLocation().getLng(), r.getLocation().getLat(), r.getElevation()))
                 .collect(Collectors.toList());
 
-        Route routeWithElevation = new Route(coordsWithElevation);
-
         log.debug("Input route has {} coordinates, after calling Google Maps API has {} coordinates",
-                route.getAsAbsoluteCoords().size(),
-                routeWithElevation.getAsAbsoluteCoords().size());
+                coords.size(),
+                coordsWithElevation.size());
 
-        log.debug("Source polyline: {}", route.getPolyline());
-        log.debug("Output polyline: {}", routeWithElevation.getPolyline());
 
-        return routeWithElevation;
+
+        return coordsWithElevation;
     }
 
     /**

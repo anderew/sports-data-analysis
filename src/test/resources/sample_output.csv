@@ -1,0 +1,12 @@
+lat,lng,elevation(m),distance from last point (m),change in altitude (m),distance from start, waypoint type, waypoint
+
+
+"distance from start (km)", waypoint
+0, start, london
+10, feed station, guildford
+15, hill (ascent), woking
+20, route split, farnbrough
+
+
+"distance from start (miles)", waypoint
+0, start

@@ -20,11 +20,19 @@ Andrew Rendell <andrew@rendell.org>
 
 ==== Running TODO
 
-* Call google maps API to determine elevation along route
-** There is an Elevation API which does almost exactly what I want. Oddly, works off long and lat, not polyline
-* Extend command line interface to allow list of activities
 * How to handle breaks between activities?
 * How to determine distance points?
+
+Using equation below, can determine the distance between points.
+That can give cummlative distance.
+Thats enough for basic output.
+To add waypoints
+    - add API which allows waypoints to be entered as GPS coordinates
+    - then have to find that point on our graph (or closest point)
+    - tricky!
+    - have to consider routes may not be acyclic so waypoint might not be first time route is crossed
+    - could allow GPS coord plus approx distance
+Might need to draw own graph, not sure how Excel/Sheets would handle
 
 
  ./encrypt.sh input="This is my message to be encrypted" password=MYPAS_WORD

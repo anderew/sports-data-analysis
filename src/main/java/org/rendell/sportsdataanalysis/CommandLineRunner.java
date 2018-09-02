@@ -27,7 +27,7 @@ public class CommandLineRunner {
 
             Route route = mappingAnalyser.createRouteFrom(activities);
 
-            log.info("{}", route);
+            log.info("Polyline: {}", route.getPolyline());
 
             final CSVPrinter printer = new CSVPrinter(System.out, CSVFormat.DEFAULT.withHeader("Altitude"));
 
